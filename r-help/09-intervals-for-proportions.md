@@ -21,9 +21,8 @@ Combining it with the sample proportion, we obtain the confidence interval:
 
 Instead of running through these calculations each time, we can also write our own function that automates this for us:
 
-	ci.prop <- function(k, n, conf.level=0.95) {  
+	ci.prop <- function(p.hat, n, conf.level=0.95) {  
 	  critical.value <- qnorm(1 - (1 - conf.level) / 2)  
-	  p.hat <- k / n  
 	  standard.error <- sqrt(p.hat * (1 - p.hat) / n)  
 	  margin.of.error <- critical.value * standard.error  
 	  return(p.hat + c(-margin.of.error, margin.of.error))  
