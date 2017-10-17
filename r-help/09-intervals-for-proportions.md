@@ -28,15 +28,15 @@ Instead of running through these calculations each time, we can also write our o
 	  return(p.hat + c(-margin.of.error, margin.of.error))  
 	}
 
-This creates a function that takes three parameters, `k` (number of successes), `n` (number of trials), and `conf.level` (confidence level, which is set to 95% by default), and gives it the name `ci.prop`. The function does a number of calculations and then returns the confidence interval as a vector.  You can then use this function just like any other function in R.
+This creates a function that takes three parameters, `p.hat` (proportion of successes), `n` (number of trials), and `conf.level` (confidence level, which is set to 95% by default), and gives it the name `ci.prop`. The function does a number of calculations and then returns the confidence interval as a vector.  You can then use this function just like any other function in R.
 
-Now we can just call our function. For example, to estimate a 90% CI for 40 successes out of 100 trials:
+Now we can just call our function. For example, to estimate a 90% CI for 40 successes out of 100 trials, i.e. with a proportion of success equal to 0.4:
 
-	> ci.prop(40, 100, 0.9)
+	> ci.prop(0.4, 100, 0.9)
 
 Or to calculate a 95% CI, we can omit the last parameter because it is 95% by default:
 
-	> ci.prop(40, 100)
+	> ci.prop(0.4, 100)
 
 To find the required sample size for a confidence interval with a particular margin of error, we use the formula:
 
