@@ -18,3 +18,5 @@
 * [Week 2](https://youtu.be/3KZjbmONnak) (9/13)
 * [Week 3](https://youtu.be/wZbYkxW7SRo) (9/20)
 * [Project 1](https://youtu.be/ZGfSU0w7eN4) (10/4)
+* [Week 6](https://youtu.be/jvHinetsQdA) (10/11)
+* [Week 7](https://youtu.be/QMBiCvlyZDY) (10/18)
