@@ -21,3 +21,4 @@
 * [Week 6](https://youtu.be/jvHinetsQdA) (10/11)
 * [Week 7](https://youtu.be/QMBiCvlyZDY) (10/18)
 * [Week 8](https://youtu.be/wALPrkSjU6Q) (10/25)
+* [Week 10](https://youtu.be/2AEkOPKq8cU) (11/08)
