@@ -53,3 +53,9 @@ We can also check for linearity and heteroscedasticity by examining the residual
 	> plot(survey$height, residual(model))
 	> plot(predict(model), residual(model))
 	> abline(0,0)
+	
+R also has a shortcut to help you quickly check assumptions of linearity, homoscedasticity, and normality of residuals. Enter:
+
+	> plot(model)
+	
+The first plot shows residuals vs fitted (predicted) y-values, and the second shows the Q-Q plot of the residuals. (Ignore the last two plots -- we won't cover them in 309.)
