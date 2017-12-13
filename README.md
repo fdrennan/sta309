@@ -24,3 +24,5 @@
 * [Week 10](https://youtu.be/2AEkOPKq8cU) (11/08)
 * [Week 11](https://youtu.be/ENxz3OtPAUA) (11/15)
 * [Practice Final](https://youtu.be/yM_v4_Jynos) (12/08)
+* [Final Review Session 1](https://youtu.be/NVvRc0WBZno) (12/12)
+
