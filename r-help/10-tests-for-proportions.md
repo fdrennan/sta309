@@ -22,7 +22,7 @@ or
 	
 	> p.val.upper <- pnorm(ts.z, lower.tail=F)
 	
-Finally, if we want to test ![H_0 : p=0.6](http://chart.apis.google.com/chart?cht=tx&chl=p=0.6) vs ![H_0 : p\\neq0.6](http://chart.apis.google.com/chart?cht=tx&chl=p<0.6) (two-tail test), we need to double the tail probability, so the P-value is either twice the lower P-value or twice the upper P-value.  One of these will be larger than 1 and the other is correct, so we can use the min function to choose the correct value and calculate the P-value as:
+Finally, if we want to test ![H_0 : p=0.6](http://chart.apis.google.com/chart?cht=tx&chl=p=0.6) vs ![H_0 : p\\neq0.6](http://chart.apis.google.com/chart?cht=tx&chl=p\\neq0.6) (two-tailed test), we need to double the tail probability, so the P-value is either twice the lower P-value or twice the upper P-value.  One of these will be larger than 1 and the other is correct, so we can use the min function to choose the correct value and calculate the P-value as:
 
 	> p.val.two <- min(2*pnorm(ts.z), 2*(pnorm(ts.z, lower.tail=F))
 
