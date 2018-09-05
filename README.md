@@ -14,4 +14,4 @@
 
 # Videos of R help sessions
 
-* 
+* [Session 1: September 4](https://youtu.be/0i9WI6OUGZ8)
