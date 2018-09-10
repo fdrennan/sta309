@@ -15,3 +15,4 @@
 # Videos of R help sessions
 
 * [Session 1: September 4](https://youtu.be/0i9WI6OUGZ8)
+* [Session 2: September 10](https://youtu.be/eHOe7mFgEXk)
