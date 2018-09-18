@@ -16,3 +16,4 @@
 
 * [Session 1: September 4](https://youtu.be/0i9WI6OUGZ8)
 * [Session 2: September 10](https://youtu.be/eHOe7mFgEXk)
+* [Session 3: September 17](https://youtu.be/qHJ9_pCiMJc)
