@@ -55,6 +55,10 @@ If you need a refresher on how vectors work in R, see the [Vectors](http://www.y
 Make a boxplot:
 
 	> boxplot(data$X0)
+	
+You can also make side-by-side boxplots to look at the distribution of a quantitative variable when split out by the values of a categorical variable (e.g., distribution of heights for men vs women). If we had variables `gender` and `height` in a data set called `people`, we would create side-by-side boxplots with the command:
+	
+	> boxplot(height ~ gender, data=people)
 
 Make a stem-and-leaf plot:
 
