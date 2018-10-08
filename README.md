@@ -19,3 +19,4 @@
 * [Session 3: September 17](https://youtu.be/qHJ9_pCiMJc)
 * [Session 4: September 24](https://youtu.be/b42M7fS9o4k)
 * [Exam Review: September 28](https://youtu.be/iJRRum2MAFk)
+* [Session 5: October 8](https://youtu.be/tLhzoZj8cwY)
