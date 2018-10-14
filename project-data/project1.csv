@@ -1,0 +1,1066 @@
+ID,Income,Married,Age,Education,Gender,Race,Hispanic,Region,Prestige,JobCategory,SelfEmployed
+2,70590,Not married,61,12,Male,White,Not Hispanic,Northeast,40,Production,Not self-employed
+9,26002,Married,45,12,Male,Black,Not Hispanic,Northeast,48,Service,Not self-employed
+16,39254,Not married,33,13,Female,White,Not Hispanic,Northeast,46,Professional,Not self-employed
+19,54254,Not married,31,18,Male,Black,Not Hispanic,Northeast,61,Professional,Not self-employed
+20,47118,Not married,43,13,Male,Black,Not Hispanic,Northeast,38,Office,Not self-employed
+21,88166,Not married,58,12,Female,White,Not Hispanic,Northeast,48,Medical,Not self-employed
+25,25517,Not married,25,15,Female,White,Hispanic,Northeast,22,Production,Not self-employed
+32,68690,Married,68,12,Female,White,Not Hispanic,Northeast,29,Service,Not self-employed
+33,154918,Married,55,12,Male,White,Not Hispanic,Northeast,60,Service,Not self-employed
+36,56342,Not married,35,12,Male,White,Not Hispanic,Northeast,44,Management,Not self-employed
+38,88398,Married,43,16,Female,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+39,188549,Not married,58,16,Female,White,Not Hispanic,Northeast,60,Management,Not self-employed
+41,27615,Not married,40,12,Female,White,Not Hispanic,Northeast,31,Sales,Not self-employed
+44,49111,Not married,36,20,Female,White,Not Hispanic,Northeast,66,Professional,Not self-employed
+46,124830,Not married,28,15,Male,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+48,75509,Married,33,16,Male,Other,Not Hispanic,Northeast,42,Professional,Not self-employed
+50,151306,Not married,47,16,Female,White,Not Hispanic,Northeast,69,Professional,Not self-employed
+57,36441,Not married,40,17,Female,White,Not Hispanic,Northeast,53,Professional,Not self-employed
+58,87565,Not married,57,17,Female,White,Not Hispanic,Northeast,31,Sales,Not self-employed
+59,15392,Not married,59,20,Female,White,Not Hispanic,Northeast,74,Professional,Not self-employed
+61,28580,Not married,26,13,Male,Black,Not Hispanic,Northeast,29,Service,Not self-employed
+66,42893,Not married,30,10,Male,Other,Hispanic,Northeast,25,Production,Not self-employed
+67,35710,Not married,29,12,Male,Other,Hispanic,Northeast,50,Service,Not self-employed
+72,102172,Not married,57,14,Female,Black,Not Hispanic,Northeast,54,Management,Not self-employed
+78,89943,Not married,37,18,Female,Black,Not Hispanic,Northeast,58,Professional,Not self-employed
+81,246118,Married,42,14,Male,Other,Not Hispanic,Northeast,60,Management,Not self-employed
+82,103043,Not married,35,14,Female,White,Not Hispanic,Northeast,50,Service,Not self-employed
+83,216868,Married,33,16,Male,White,Not Hispanic,Northeast,59,Service,Not self-employed
+84,122019,Not married,44,12,Male,White,Not Hispanic,Northeast,28,Construction,Not self-employed
+85,74652,Married,41,16,Male,White,Not Hispanic,Northeast,51,Financial,Not self-employed
+86,76732,Not married,52,12,Male,White,Not Hispanic,Northeast,31,Sales,Not self-employed
+87,129225,Not married,45,16,Female,White,Not Hispanic,Northeast,58,Financial,Not self-employed
+88,40271,Not married,41,13,Female,Other,Hispanic,Northeast,24,Service,Not self-employed
+89,26790,Not married,41,12,Female,White,Hispanic,Northeast,21,Service,Not self-employed
+94,132441,Not married,50,16,Male,White,Not Hispanic,Northeast,72,Professional,Not self-employed
+95,202995,Not married,40,17,Male,White,Not Hispanic,Northeast,47,Sales,Not self-employed
+96,68898,Not married,58,15,Male,White,Not Hispanic,Northeast,46,Service,Self-employed
+97,30743,Not married,43,16,Male,White,Hispanic,Northeast,18,Service,Self-employed
+98,10016,Not married,25,16,Male,Black,Not Hispanic,Northeast,46,Professional,Not self-employed
+99,12133,Not married,33,20,Male,Other,Not Hispanic,Northeast,80,Medical,Not self-employed
+101,48966,Married,58,16,Female,Black,Not Hispanic,Northeast,44,Professional,Not self-employed
+111,177235,Married,37,16,Male,White,Not Hispanic,Northeast,31,Office,Not self-employed
+114,149039,Married,48,14,Male,White,Hispanic,Northeast,35,Construction,Not self-employed
+121,146900,Married,55,18,Female,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+124,180041,Not married,56,12,Male,White,Not Hispanic,Northeast,39,Management,Self-employed
+127,157781,Married,49,12,Female,White,Not Hispanic,Northeast,50,Production,Not self-employed
+128,132525,Not married,26,16,Male,White,Not Hispanic,Northeast,39,Management,Not self-employed
+129,97335,Not married,33,16,Female,White,Not Hispanic,Northeast,58,Professional,Not self-employed
+130,93809,Married,36,20,Male,White,Hispanic,Northeast,31,Sales,Not self-employed
+132,82951,Not married,27,16,Female,Black,Not Hispanic,Northeast,53,Financial,Not self-employed
+134,79773,Not married,48,12,Male,White,Not Hispanic,Northeast,32,Office,Not self-employed
+135,57149,Married,47,12,Female,Black,Not Hispanic,Northeast,41,Management,Not self-employed
+139,104560,Not married,38,16,Female,White,Not Hispanic,Northeast,47,Office,Not self-employed
+145,91552,Not married,62,14,Male,White,Not Hispanic,Northeast,49,Construction,Not self-employed
+146,197097,Married,51,16,Female,White,Not Hispanic,West,39,Management,Not self-employed
+149,101637,Not married,57,12,Female,White,Not Hispanic,West,39,Management,Not self-employed
+150,58824,Not married,30,16,Male,White,Not Hispanic,West,38,Professional,Self-employed
+151,64269,Married,39,18,Male,White,Not Hispanic,West,51,Professional,Self-employed
+152,50391,Not married,37,15,Female,White,Not Hispanic,West,46,Professional,Not self-employed
+155,80376,Married,58,12,Male,White,Not Hispanic,West,36,Production,Not self-employed
+159,64167,Married,25,13,Female,White,Hispanic,West,47,Financial,Not self-employed
+160,88530,Not married,54,12,Male,Other,Hispanic,West,45,Service,Not self-employed
+161,75033,Not married,33,15,Female,Other,Not Hispanic,West,69,Medical,Not self-employed
+169,125225,Not married,50,12,Male,Black,Not Hispanic,West,26,Production,Self-employed
+172,26857,Not married,27,14,Male,White,Not Hispanic,West,39,Management,Not self-employed
+174,169042,Not married,55,20,Male,White,Not Hispanic,West,40,Service,Not self-employed
+176,102926,Not married,51,14,Female,Other,Hispanic,West,46,Office,Not self-employed
+185,6530,Not married,46,16,Male,Black,Not Hispanic,West,35,Production,Not self-employed
+188,63323,Married,34,12,Male,Black,Not Hispanic,West,53,Professional,Not self-employed
+192,27429,Not married,39,9,Female,Other,Hispanic,West,31,Production,Not self-employed
+194,43712,Married,40,8,Female,Other,Hispanic,West,42,Service,Self-employed
+195,27705,Not married,32,9,Male,White,Hispanic,West,28,Construction,Not self-employed
+196,89167,Married,38,14,Male,White,Hispanic,West,32,Office,Not self-employed
+198,169722,Not married,49,16,Male,Other,Not Hispanic,West,48,Professional,Not self-employed
+200,156557,Married,30,16,Male,Black,Not Hispanic,West,53,Management,Not self-employed
+202,140681,Not married,55,12,Male,White,Hispanic,West,44,Construction,Self-employed
+203,111930,Not married,30,16,Male,White,Hispanic,West,31,Sales,Not self-employed
+204,75223,Not married,29,16,Male,Black,Not Hispanic,West,52,Professional,Not self-employed
+205,8567,Not married,37,16,Male,White,Not Hispanic,West,67,Professional,Not self-employed
+207,63781,Not married,38,16,Female,Other,Hispanic,West,60,Financial,Not self-employed
+211,175539,Not married,37,12,Male,White,Not Hispanic,West,53,Management,Not self-employed
+217,97719,Not married,61,16,Female,White,Not Hispanic,West,32,Office,Not self-employed
+218,41507,Not married,45,12,Female,White,Hispanic,West,35,Production,Not self-employed
+219,96357,Not married,47,13,Male,White,Not Hispanic,West,49,Construction,Not self-employed
+220,152403,Married,41,16,Male,White,Hispanic,West,65,Professional,Not self-employed
+222,29353,Married,50,6,Male,Other,Hispanic,West,32,Production,Not self-employed
+223,35193,Not married,25,17,Male,Other,Not Hispanic,West,62,Medical,Not self-employed
+226,46376,Married,48,12,Female,Other,Not Hispanic,West,49,Production,Not self-employed
+227,84989,Not married,25,17,Male,Other,Not Hispanic,West,65,Professional,Not self-employed
+228,97879,Not married,31,16,Male,White,Hispanic,West,61,Professional,Not self-employed
+229,45516,Not married,33,18,Female,White,Hispanic,West,46,Office,Not self-employed
+233,211452,Married,57,18,Female,Other,Not Hispanic,West,60,Professional,Not self-employed
+236,167852,Not married,48,19,Female,White,Hispanic,West,64,Medical,Not self-employed
+238,20498,Married,43,12,Male,White,Not Hispanic,West,39,Management,Not self-employed
+239,19327,Not married,34,16,Female,White,Not Hispanic,West,35,Service,Not self-employed
+240,75658,Married,36,12,Male,Other,Hispanic,West,32,Construction,Not self-employed
+241,70926,Not married,37,12,Male,Other,Hispanic,West,35,Construction,Not self-employed
+242,30613,Not married,32,14,Male,White,Hispanic,West,31,Sales,Not self-employed
+243,37605,Not married,53,7,Female,Other,Hispanic,West,25,Service,Not self-employed
+244,94638,Not married,42,12,Male,White,Not Hispanic,West,38,Production,Not self-employed
+248,125901,Married,49,15,Male,White,Not Hispanic,West,61,Professional,Not self-employed
+249,50817,Married,49,12,Female,Other,Hispanic,West,59,Management,Not self-employed
+252,23943,Not married,29,14,Male,Black,Not Hispanic,West,25,Production,Not self-employed
+254,78708,Married,31,12,Male,White,Hispanic,West,45,Service,Not self-employed
+257,48060,Not married,30,16,Female,White,Hispanic,West,48,Professional,Not self-employed
+259,113992,Married,35,20,Female,White,Not Hispanic,West,61,Professional,Not self-employed
+263,25895,Not married,42,12,Male,White,Hispanic,West,46,Office,Not self-employed
+269,94810,Married,44,11,Male,White,Hispanic,West,35,Production,Not self-employed
+277,96824,Married,44,20,Female,White,Not Hispanic,West,61,Professional,Not self-employed
+278,59674,Married,59,16,Male,White,Not Hispanic,West,31,Sales,Self-employed
+279,56519,Married,61,14,Female,White,Not Hispanic,West,55,Professional,Not self-employed
+280,77489,Married,31,10,Male,White,Hispanic,West,73,Service,Self-employed
+286,131182,Not married,38,14,Male,Black,Not Hispanic,Northeast,54,Professional,Not self-employed
+288,59108,Married,28,14,Male,White,Not Hispanic,Northeast,39,Construction,Not self-employed
+289,49500,Not married,73,12,Female,White,Not Hispanic,Northeast,47,Office,Not self-employed
+290,160569,Not married,31,17,Female,White,Not Hispanic,Northeast,60,Financial,Not self-employed
+291,253689,Married,55,19,Male,White,Not Hispanic,Northeast,69,Professional,Not self-employed
+292,77673,Married,61,16,Male,White,Not Hispanic,Northeast,38,Professional,Self-employed
+293,172494,Married,50,19,Male,White,Not Hispanic,Northeast,47,Financial,Not self-employed
+295,41303,Married,41,12,Male,White,Hispanic,Northeast,44,Construction,Self-employed
+300,62475,Not married,40,17,Male,Black,Not Hispanic,Northeast,38,Professional,Not self-employed
+304,5475,Not married,40,13,Male,Black,Not Hispanic,Northeast,35,Production,Not self-employed
+305,66414,Married,40,14,Male,Black,Not Hispanic,Northeast,67,Professional,Not self-employed
+306,94195,Married,30,19,Female,White,Hispanic,Northeast,54,Professional,Not self-employed
+308,12071,Not married,52,10,Female,Other,Hispanic,Northeast,25,Service,Self-employed
+313,153447,Not married,60,12,Male,White,Not Hispanic,Northeast,46,Professional,Not self-employed
+314,58602,Married,44,16,Male,White,Not Hispanic,Northeast,51,Professional,Not self-employed
+316,142813,Married,66,15,Male,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+317,68414,Not married,43,12,Male,Black,Not Hispanic,Northeast,35,Production,Not self-employed
+318,35704,Married,37,12,Male,White,Not Hispanic,Northeast,49,Construction,Not self-employed
+327,59650,Not married,39,12,Male,White,Hispanic,Northeast,35,Production,Not self-employed
+332,139388,Married,60,16,Male,White,Not Hispanic,Northeast,48,Professional,Self-employed
+334,8506,Married,42,13,Male,Other,Not Hispanic,Northeast,35,Construction,Self-employed
+335,78096,Married,35,9,Male,Other,Hispanic,Northeast,29,Office,Not self-employed
+336,145230,Not married,42,16,Female,Other,Hispanic,Northeast,51,Financial,Not self-employed
+337,224801,Married,58,17,Male,White,Not Hispanic,Northeast,38,Sales,Not self-employed
+338,122314,Married,32,18,Female,White,Not Hispanic,Northeast,35,Production,Not self-employed
+341,151524,Married,44,18,Male,White,Not Hispanic,Northeast,44,Professional,Not self-employed
+343,236706,Married,62,18,Female,White,Not Hispanic,Northeast,64,Management,Not self-employed
+345,63802,Not married,51,16,Female,White,Not Hispanic,Northeast,47,Office,Not self-employed
+346,26700,Not married,37,19,Male,White,Not Hispanic,Northeast,55,Professional,Not self-employed
+348,30472,Not married,40,15,Female,White,Not Hispanic,Northeast,31,Office,Not self-employed
+349,44912,Not married,53,12,Male,White,Not Hispanic,Northeast,28,Production,Not self-employed
+350,72243,Not married,52,12,Male,White,Not Hispanic,Northeast,42,Construction,Not self-employed
+353,131906,Married,46,12,Female,White,Not Hispanic,Northeast,38,Office,Not self-employed
+354,63262,Married,56,12,Male,White,Not Hispanic,Northeast,33,Financial,Not self-employed
+356,14221,Married,62,19,Female,Black,Not Hispanic,Southeast,61,Professional,Not self-employed
+358,131006,Not married,60,16,Male,White,Not Hispanic,Southeast,46,Office,Not self-employed
+359,117412,Not married,36,14,Female,Black,Not Hispanic,Southeast,47,Office,Not self-employed
+361,96376,Married,30,16,Male,White,Not Hispanic,Southeast,59,Service,Not self-employed
+362,70542,Not married,27,12,Male,White,Not Hispanic,Southeast,44,Construction,Not self-employed
+364,75152,Married,60,12,Female,White,Not Hispanic,Southeast,52,Management,Not self-employed
+365,258152,Married,51,18,Male,White,Not Hispanic,Southeast,35,Production,Not self-employed
+366,60375,Not married,42,12,Female,White,Not Hispanic,Southeast,36,Office,Not self-employed
+370,17018,Married,47,13,Male,White,Not Hispanic,Southeast,50,Management,Self-employed
+376,33519,Married,34,16,Female,White,Not Hispanic,Southeast,61,Professional,Not self-employed
+377,72794,Not married,31,12,Male,Black,Not Hispanic,Southeast,40,Service,Not self-employed
+380,40467,Married,68,18,Female,Black,Not Hispanic,Southeast,74,Professional,Not self-employed
+384,45985,Not married,40,13,Female,Black,Not Hispanic,Southeast,38,Sales,Not self-employed
+386,34098,Married,56,16,Female,Black,Not Hispanic,Southeast,59,Management,Not self-employed
+388,50620,Not married,29,16,Female,Black,Not Hispanic,Southeast,48,Service,Not self-employed
+393,108903,Married,38,20,Male,White,Not Hispanic,Southeast,51,Professional,Not self-employed
+394,144189,Not married,49,14,Male,White,Not Hispanic,Southeast,66,Professional,Not self-employed
+398,61624,Married,34,18,Female,White,Not Hispanic,Southeast,52,Management,Not self-employed
+399,81263,Married,34,16,Female,White,Not Hispanic,Southeast,31,Office,Not self-employed
+401,106173,Married,59,11,Male,White,Not Hispanic,Southeast,37,Service,Self-employed
+403,116248,Married,45,14,Female,White,Not Hispanic,Southeast,64,Medical,Not self-employed
+404,57109,Not married,34,12,Male,Black,Not Hispanic,Southeast,24,Service,Not self-employed
+408,156316,Not married,59,20,Female,Other,Not Hispanic,Southeast,74,Professional,Not self-employed
+410,69997,Not married,44,18,Male,White,Not Hispanic,Southeast,47,Financial,Not self-employed
+412,57142,Married,37,20,Male,White,Not Hispanic,Southeast,61,Professional,Not self-employed
+413,225557,Married,37,15,Male,White,Not Hispanic,Southeast,49,Sales,Self-employed
+414,150981,Married,48,18,Male,White,Not Hispanic,Southeast,36,Office,Not self-employed
+415,30952,Not married,34,12,Female,Black,Not Hispanic,Southeast,53,Professional,Not self-employed
+416,70327,Married,25,12,Male,Black,Not Hispanic,Southeast,53,Management,Not self-employed
+417,29065,Not married,44,13,Female,White,Not Hispanic,Southeast,38,Office,Not self-employed
+422,32508,Married,31,10,Female,Black,Not Hispanic,Southeast,48,Medical,Not self-employed
+424,166135,Married,53,20,Female,White,Not Hispanic,Southeast,64,Medical,Self-employed
+427,173461,Married,59,18,Male,White,Not Hispanic,Southeast,65,Professional,Self-employed
+430,74685,Married,52,10,Male,Other,Hispanic,Southeast,47,Construction,Not self-employed
+431,54533,Not married,26,11,Female,Other,Hispanic,Southeast,31,Sales,Not self-employed
+434,99915,Married,44,6,Male,Other,Hispanic,Southeast,33,Construction,Not self-employed
+435,65650,Not married,29,13,Male,White,Not Hispanic,Southeast,45,Service,Not self-employed
+436,96685,Not married,57,16,Female,White,Not Hispanic,Southeast,52,Management,Not self-employed
+440,15140,Not married,26,16,Male,White,Not Hispanic,Northeast,60,Professional,Not self-employed
+441,108600,Not married,29,16,Female,White,Not Hispanic,Northeast,63,Management,Not self-employed
+445,33566,Not married,28,12,Male,White,Not Hispanic,Northeast,24,Service,Not self-employed
+448,55561,Married,43,12,Male,White,Not Hispanic,Northeast,37,Service,Not self-employed
+452,59127,Married,67,12,Male,White,Not Hispanic,Northeast,45,Office,Not self-employed
+458,93260,Married,37,16,Female,White,Not Hispanic,Northeast,53,Management,Not self-employed
+465,83807,Not married,31,19,Male,White,Not Hispanic,Northeast,47,Financial,Not self-employed
+467,221299,Not married,57,18,Female,White,Not Hispanic,Northeast,60,Financial,Self-employed
+468,190882,Married,59,20,Female,White,Hispanic,Northeast,74,Professional,Not self-employed
+469,44643,Married,29,16,Female,White,Not Hispanic,Northeast,45,Service,Not self-employed
+471,115388,Married,59,18,Female,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+473,179599,Married,36,18,Male,White,Not Hispanic,Northeast,60,Service,Not self-employed
+474,65462,Not married,29,13,Male,White,Not Hispanic,Northeast,50,Service,Not self-employed
+475,79273,Married,28,16,Male,White,Not Hispanic,Northeast,47,Financial,Not self-employed
+480,8676,Not married,34,19,Female,Other,Not Hispanic,Northeast,72,Medical,Not self-employed
+482,63720,Not married,27,16,Male,White,Not Hispanic,Northeast,23,Service,Not self-employed
+483,14178,Not married,26,16,Female,White,Not Hispanic,Northeast,31,Service,Not self-employed
+485,98168,Married,61,14,Female,White,Not Hispanic,Northeast,64,Management,Not self-employed
+488,144466,Not married,73,20,Male,White,Not Hispanic,Northeast,74,Professional,Not self-employed
+489,159523,Married,37,12,Male,White,Not Hispanic,Northeast,44,Construction,Self-employed
+491,53602,Not married,29,12,Male,Other,Hispanic,Northeast,50,Management,Not self-employed
+497,132927,Married,34,13,Male,White,Not Hispanic,Northeast,21,Service,Not self-employed
+498,71548,Not married,42,12,Female,White,Not Hispanic,Northeast,31,Sales,Not self-employed
+501,50568,Not married,58,13,Female,White,Not Hispanic,Northeast,48,Service,Not self-employed
+505,36835,Not married,20,12,Male,White,Not Hispanic,Northeast,45,Service,Not self-employed
+507,74915,Married,54,16,Female,White,Not Hispanic,Northeast,60,Financial,Not self-employed
+509,183318,Married,55,16,Female,White,Not Hispanic,Northeast,65,Professional,Not self-employed
+510,116384,Not married,42,16,Female,White,Not Hispanic,Northeast,54,Professional,Not self-employed
+514,151819,Not married,32,12,Male,White,Not Hispanic,Northeast,38,Production,Not self-employed
+515,98709,Not married,51,13,Male,White,Not Hispanic,Northeast,48,Sales,Not self-employed
+516,108574,Married,69,12,Male,White,Not Hispanic,Northeast,24,Sales,Self-employed
+521,136104,Married,58,13,Male,White,Not Hispanic,Northeast,72,Management,Not self-employed
+522,93570,Married,47,20,Female,White,Not Hispanic,Northeast,48,Medical,Not self-employed
+530,92693,Not married,52,16,Female,White,Not Hispanic,West,39,Management,Not self-employed
+537,59780,Married,47,6,Male,Black,Hispanic,West,23,Production,Not self-employed
+540,36757,Not married,28,11,Male,Other,Hispanic,West,44,Construction,Not self-employed
+547,63373,Not married,32,13,Female,Black,Not Hispanic,West,53,Financial,Not self-employed
+551,36781,Not married,44,12,Female,Other,Hispanic,West,38,Office,Not self-employed
+554,5402,Not married,36,14,Male,Black,Not Hispanic,West,65,Professional,Not self-employed
+555,220160,Not married,33,16,Male,Other,Not Hispanic,West,60,Professional,Not self-employed
+556,110720,Married,48,10,Male,Other,Hispanic,West,43,Sales,Not self-employed
+564,54782,Not married,37,14,Female,White,Hispanic,Central,38,Sales,Not self-employed
+567,50950,Not married,55,15,Female,Black,Not Hispanic,Central,47,Office,Not self-employed
+568,30166,Not married,28,14,Male,White,Not Hispanic,Central,37,Service,Not self-employed
+569,105704,Not married,58,13,Male,White,Not Hispanic,Central,35,Production,Not self-employed
+571,25791,Not married,32,16,Male,White,Not Hispanic,Central,31,Sales,Not self-employed
+573,97478,Not married,47,16,Female,Black,Not Hispanic,Central,60,Financial,Not self-employed
+583,39671,Not married,46,12,Female,Black,Not Hispanic,Central,18,Service,Not self-employed
+588,38697,Not married,58,14,Male,Black,Not Hispanic,Central,44,Construction,Not self-employed
+590,125305,Not married,36,17,Male,White,Not Hispanic,Central,48,Professional,Not self-employed
+594,171373,Not married,32,13,Male,White,Not Hispanic,Central,53,Management,Not self-employed
+600,266368,Married,53,20,Male,White,Not Hispanic,Central,64,Management,Not self-employed
+602,2385,Not married,25,12,Female,White,Not Hispanic,Central,36,Service,Self-employed
+603,194667,Married,52,12,Male,White,Not Hispanic,Central,33,Service,Self-employed
+609,90305,Married,47,20,Female,Black,Not Hispanic,Central,61,Professional,Not self-employed
+610,154665,Not married,34,16,Male,Black,Not Hispanic,Central,47,Sales,Self-employed
+618,157994,Not married,62,20,Female,Black,Not Hispanic,Central,59,Management,Not self-employed
+624,34724,Not married,57,12,Female,Black,Not Hispanic,Central,35,Production,Not self-employed
+636,256188,Married,58,16,Male,White,Not Hispanic,Northeast,63,Financial,Self-employed
+637,96002,Married,69,12,Female,White,Not Hispanic,Northeast,39,Office,Not self-employed
+638,115108,Married,49,17,Female,White,Not Hispanic,Northeast,59,Medical,Not self-employed
+643,142895,Married,34,16,Male,White,Not Hispanic,Northeast,65,Professional,Not self-employed
+647,122467,Married,52,19,Female,Other,Not Hispanic,Northeast,63,Professional,Not self-employed
+650,152277,Married,34,16,Female,Other,Not Hispanic,Northeast,50,Management,Not self-employed
+654,86770,Not married,30,20,Female,White,Not Hispanic,Northeast,80,Medical,Not self-employed
+659,24658,Married,52,15,Male,Black,Not Hispanic,Northeast,49,Construction,Self-employed
+660,48616,Not married,49,16,Female,Black,Not Hispanic,Northeast,32,Office,Not self-employed
+665,36388,Married,61,12,Female,White,Not Hispanic,Northeast,31,Professional,Not self-employed
+666,90504,Married,40,13,Male,White,Not Hispanic,Northeast,35,Construction,Not self-employed
+669,42332,Not married,27,12,Male,Black,Not Hispanic,Northeast,29,Office,Not self-employed
+672,60311,Not married,57,12,Female,White,Not Hispanic,Northeast,40,Service,Not self-employed
+675,2634,Not married,33,11,Female,Other,Hispanic,Northeast,33,Financial,Not self-employed
+676,162738,Married,39,18,Male,Other,Not Hispanic,Northeast,39,Management,Not self-employed
+677,26675,Not married,27,16,Male,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+678,9156,Not married,34,18,Male,Other,Not Hispanic,Northeast,65,Professional,Not self-employed
+679,106531,Not married,28,15,Male,White,Hispanic,Northeast,60,Service,Not self-employed
+680,100866,Not married,50,16,Male,Black,Not Hispanic,Northeast,41,Management,Not self-employed
+681,65576,Married,30,14,Male,Black,Not Hispanic,Northeast,49,Construction,Not self-employed
+686,30890,Not married,60,13,Female,Black,Not Hispanic,Central,32,Office,Not self-employed
+689,41952,Married,48,14,Female,Black,Not Hispanic,Central,48,Medical,Not self-employed
+690,93085,Married,27,12,Male,Black,Not Hispanic,Central,47,Production,Not self-employed
+693,33574,Not married,56,11,Male,Black,Not Hispanic,Central,22,Production,Not self-employed
+697,158498,Married,42,7,Male,White,Hispanic,Central,28,Construction,Self-employed
+698,16498,Not married,28,12,Female,Black,Not Hispanic,Central,55,Medical,Not self-employed
+700,78039,Married,40,13,Male,Other,Hispanic,Central,38,Construction,Not self-employed
+705,91815,Not married,40,16,Female,Black,Not Hispanic,Central,61,Professional,Not self-employed
+706,10089,Not married,36,19,Female,Black,Hispanic,Central,42,Management,Not self-employed
+708,51333,Married,54,9,Male,White,Hispanic,Central,46,Professional,Not self-employed
+709,97183,Not married,36,12,Male,White,Hispanic,Central,46,Construction,Not self-employed
+711,8062,Married,37,12,Male,Black,Hispanic,Central,43,Construction,Not self-employed
+712,2862,Not married,50,18,Female,White,Hispanic,Central,24,Service,Not self-employed
+713,28790,Married,25,16,Female,Other,Hispanic,Central,39,Production,Not self-employed
+714,32893,Not married,44,0,Male,Other,Hispanic,Central,49,Construction,Not self-employed
+716,55230,Not married,40,6,Female,White,Hispanic,Central,45,Service,Not self-employed
+719,64968,Married,59,14,Female,Other,Hispanic,Central,51,Financial,Not self-employed
+722,102881,Married,27,14,Male,White,Hispanic,Central,38,Service,Self-employed
+726,60394,Not married,42,14,Male,White,Hispanic,Central,53,Professional,Not self-employed
+728,198450,Not married,60,16,Male,White,Not Hispanic,Central,45,Sales,Not self-employed
+734,6078,Married,33,15,Male,Black,Not Hispanic,Southeast,24,Production,Not self-employed
+736,84730,Married,46,14,Male,White,Not Hispanic,Southeast,33,Construction,Not self-employed
+737,111383,Married,52,16,Female,Black,Not Hispanic,Southeast,64,Professional,Not self-employed
+740,45987,Married,56,16,Female,White,Not Hispanic,Southeast,60,Financial,Not self-employed
+741,45994,Married,25,12,Male,White,Not Hispanic,Southeast,53,Management,Not self-employed
+742,111365,Not married,48,13,Female,White,Not Hispanic,Southeast,35,Service,Not self-employed
+747,37263,Not married,23,16,Male,Black,Not Hispanic,Southeast,31,Service,Not self-employed
+748,29774,Not married,29,15,Female,Black,Not Hispanic,Southeast,55,Medical,Not self-employed
+749,112705,Not married,69,18,Male,White,Not Hispanic,Southeast,35,Production,Self-employed
+750,46265,Not married,35,16,Male,Black,Not Hispanic,Southeast,48,Professional,Not self-employed
+751,16863,Not married,38,14,Female,Black,Not Hispanic,Southeast,53,Professional,Not self-employed
+752,70009,Not married,31,14,Female,Black,Not Hispanic,Southeast,30,Service,Not self-employed
+757,87321,Married,48,16,Female,White,Hispanic,Southeast,58,Service,Not self-employed
+758,213704,Married,68,14,Male,Black,Not Hispanic,Southeast,39,Production,Not self-employed
+759,68769,Not married,42,12,Male,Black,Not Hispanic,Southeast,35,Production,Not self-employed
+760,28589,Married,65,14,Female,White,Not Hispanic,Southeast,44,Medical,Not self-employed
+763,185502,Married,62,14,Female,White,Not Hispanic,Southeast,59,Medical,Not self-employed
+764,17473,Not married,51,8,Male,White,Not Hispanic,Southeast,53,Management,Not self-employed
+766,53890,Not married,28,12,Female,White,Not Hispanic,Southeast,52,Management,Not self-employed
+770,39819,Married,40,15,Female,Black,Not Hispanic,Southeast,51,Medical,Not self-employed
+771,162049,Married,51,16,Male,White,Not Hispanic,Southeast,39,Management,Not self-employed
+773,26324,Not married,51,13,Female,Black,Not Hispanic,Southeast,48,Professional,Not self-employed
+774,148393,Married,60,14,Male,Black,Not Hispanic,Southeast,39,Financial,Not self-employed
+778,10532,Not married,37,16,Female,Black,Not Hispanic,Southeast,50,Service,Not self-employed
+779,48701,Not married,56,12,Male,Black,Not Hispanic,Southeast,28,Construction,Not self-employed
+782,71819,Not married,59,11,Male,White,Not Hispanic,Southeast,55,Service,Not self-employed
+784,33814,Married,56,17,Male,White,Hispanic,Southeast,61,Medical,Not self-employed
+785,41396,Married,56,12,Female,Black,Not Hispanic,Southeast,35,Service,Not self-employed
+786,19200,Not married,24,14,Female,Black,Not Hispanic,Southeast,38,Sales,Not self-employed
+789,41803,Not married,51,12,Male,Black,Not Hispanic,Southeast,24,Service,Not self-employed
+790,42549,Married,56,12,Female,Black,Not Hispanic,Southeast,32,Office,Not self-employed
+796,56655,Not married,33,12,Female,Black,Hispanic,Southeast,32,Office,Not self-employed
+797,25362,Not married,31,12,Female,White,Hispanic,Southeast,33,Production,Not self-employed
+804,12326,Married,47,12,Male,Black,Not Hispanic,Southeast,50,Service,Not self-employed
+807,271647,Married,46,16,Male,White,Not Hispanic,Northeast,31,Office,Not self-employed
+809,191022,Married,53,19,Male,White,Not Hispanic,Northeast,65,Medical,Not self-employed
+812,57710,Married,52,17,Female,White,Not Hispanic,Northeast,58,Professional,Not self-employed
+814,127482,Married,34,16,Male,White,Not Hispanic,Northeast,31,Office,Not self-employed
+816,40889,Not married,59,12,Male,Black,Not Hispanic,Northeast,49,Office,Not self-employed
+820,71525,Married,53,14,Male,Black,Not Hispanic,Northeast,59,Service,Not self-employed
+821,20271,Not married,47,14,Female,Black,Not Hispanic,Northeast,64,Management,Self-employed
+824,66935,Not married,32,18,Female,Black,Not Hispanic,Northeast,44,Professional,Not self-employed
+825,73284,Married,28,16,Female,White,Not Hispanic,Northeast,38,Sales,Not self-employed
+827,91173,Not married,53,16,Female,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+828,6780,Not married,39,11,Female,Other,Not Hispanic,Northeast,24,Service,Not self-employed
+829,72738,Not married,38,14,Female,Black,Not Hispanic,Northeast,26,Production,Not self-employed
+830,58606,Married,51,12,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+831,83431,Not married,66,16,Female,White,Not Hispanic,Northeast,33,Financial,Not self-employed
+832,205451,Married,54,20,Male,White,Not Hispanic,Northeast,73,Professional,Not self-employed
+838,40869,Not married,27,12,Male,White,Not Hispanic,Northeast,50,Production,Not self-employed
+841,29657,Married,54,18,Male,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+847,45098,Not married,27,15,Female,Black,Not Hispanic,Northeast,41,Management,Not self-employed
+849,58966,Not married,34,16,Female,White,Not Hispanic,Northeast,31,Sales,Not self-employed
+850,12734,Not married,27,16,Female,White,Not Hispanic,Northeast,49,Service,Not self-employed
+852,66741,Not married,26,16,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+855,68093,Married,31,12,Male,White,Not Hispanic,Northeast,34,Construction,Not self-employed
+859,57570,Not married,35,18,Male,Other,Not Hispanic,West,28,Sales,Not self-employed
+863,162840,Married,43,16,Female,Other,Not Hispanic,West,53,Management,Not self-employed
+866,61002,Not married,61,16,Female,White,Not Hispanic,West,51,Office,Not self-employed
+867,44983,Not married,46,15,Female,White,Not Hispanic,West,31,Service,Not self-employed
+868,84049,Not married,53,18,Male,White,Not Hispanic,West,60,Financial,Not self-employed
+870,58263,Married,35,16,Female,White,Not Hispanic,West,39,Management,Not self-employed
+875,30261,Married,22,13,Female,Black,Hispanic,West,32,Office,Not self-employed
+881,28492,Married,54,17,Male,White,Not Hispanic,West,58,Financial,Not self-employed
+883,142189,Not married,43,16,Male,White,Not Hispanic,West,46,Financial,Not self-employed
+884,45050,Not married,27,15,Female,White,Not Hispanic,West,31,Office,Not self-employed
+887,10918,Married,55,14,Female,White,Not Hispanic,West,38,Sales,Self-employed
+890,11269,Not married,21,14,Female,Other,Hispanic,West,33,Service,Not self-employed
+891,30161,Not married,29,12,Male,White,Not Hispanic,West,38,Service,Not self-employed
+900,36501,Not married,81,18,Male,White,Not Hispanic,West,38,Sales,Self-employed
+901,79334,Not married,33,16,Female,White,Not Hispanic,West,50,Service,Not self-employed
+908,144105,Not married,47,12,Female,White,Not Hispanic,West,31,Sales,Not self-employed
+909,90421,Not married,35,12,Male,White,Not Hispanic,West,26,Production,Not self-employed
+916,52131,Not married,42,12,Female,White,Hispanic,West,25,Office,Not self-employed
+920,63156,Married,51,18,Female,White,Not Hispanic,West,64,Professional,Not self-employed
+921,114237,Not married,39,12,Female,White,Not Hispanic,West,51,Financial,Not self-employed
+924,148958,Married,60,16,Male,Black,Not Hispanic,West,65,Production,Not self-employed
+926,47012,Married,30,12,Male,White,Not Hispanic,West,47,Financial,Not self-employed
+927,67322,Married,37,14,Female,White,Not Hispanic,West,40,Service,Not self-employed
+928,58591,Married,50,12,Male,White,Not Hispanic,West,35,Construction,Not self-employed
+929,5318,Married,35,13,Female,Other,Hispanic,West,48,Service,Not self-employed
+930,168241,Married,44,20,Male,White,Not Hispanic,West,39,Management,Not self-employed
+934,85127,Married,51,12,Male,White,Hispanic,West,49,Construction,Not self-employed
+937,41373,Married,47,12,Male,White,Hispanic,West,44,Construction,Not self-employed
+938,72137,Married,56,17,Female,White,Not Hispanic,West,45,Office,Not self-employed
+939,14188,Not married,27,18,Female,White,Not Hispanic,West,54,Professional,Not self-employed
+940,39353,Married,27,17,Female,White,Not Hispanic,West,60,Financial,Not self-employed
+941,61610,Not married,40,17,Male,Black,Not Hispanic,West,48,Professional,Not self-employed
+944,69604,Married,38,16,Female,White,Not Hispanic,West,64,Medical,Not self-employed
+948,56490,Not married,43,14,Male,Other,Not Hispanic,West,51,Professional,Not self-employed
+954,37889,Not married,54,14,Female,Black,Not Hispanic,Central,35,Service,Self-employed
+962,41107,Not married,29,12,Male,Black,Not Hispanic,Central,35,Production,Not self-employed
+968,23363,Married,43,15,Male,Other,Not Hispanic,Central,50,Professional,Not self-employed
+969,117220,Married,65,16,Male,White,Not Hispanic,Central,32,Financial,Not self-employed
+976,88842,Not married,59,14,Female,White,Not Hispanic,Central,64,Medical,Not self-employed
+980,35637,Married,56,12,Female,White,Not Hispanic,Northeast,33,Financial,Not self-employed
+983,30858,Not married,31,16,Female,White,Hispanic,West,41,Management,Self-employed
+985,138257,Married,50,13,Female,White,Not Hispanic,West,53,Management,Not self-employed
+987,20246,Not married,59,16,Female,White,Hispanic,West,31,Office,Not self-employed
+992,15141,Not married,57,11,Female,Other,Hispanic,West,35,Service,Self-employed
+994,48999,Not married,35,12,Female,White,Hispanic,West,52,Professional,Not self-employed
+997,180596,Not married,42,17,Female,White,Not Hispanic,West,51,Financial,Self-employed
+999,77882,Married,69,8,Male,White,Hispanic,West,45,Professional,Not self-employed
+1001,49416,Not married,44,14,Male,White,Hispanic,West,34,Construction,Not self-employed
+1003,4355,Not married,28,12,Female,White,Not Hispanic,West,38,Sales,Not self-employed
+1004,95504,Married,45,20,Female,White,Not Hispanic,West,71,Professional,Not self-employed
+1008,85712,Not married,32,19,Female,White,Not Hispanic,West,64,Professional,Not self-employed
+1013,10556,Not married,25,15,Male,Black,Hispanic,West,34,Service,Not self-employed
+1016,61657,Not married,60,15,Female,Black,Hispanic,West,38,Office,Not self-employed
+1017,78065,Not married,64,12,Female,White,Not Hispanic,West,40,Office,Not self-employed
+1018,44360,Not married,26,12,Male,Black,Not Hispanic,West,35,Office,Not self-employed
+1019,33473,Not married,30,10,Male,White,Not Hispanic,West,31,Service,Not self-employed
+1023,3578,Married,32,14,Male,White,Not Hispanic,West,41,Construction,Not self-employed
+1025,110541,Married,57,19,Female,White,Not Hispanic,West,64,Medical,Not self-employed
+1027,34075,Not married,42,17,Female,White,Not Hispanic,West,53,Professional,Not self-employed
+1028,42176,Married,64,16,Female,White,Not Hispanic,West,46,Office,Not self-employed
+1030,140760,Married,41,20,Male,White,Not Hispanic,West,74,Professional,Not self-employed
+1031,12465,Not married,58,20,Male,White,Not Hispanic,West,42,Financial,Not self-employed
+1033,177440,Married,58,18,Female,White,Not Hispanic,West,72,Management,Not self-employed
+1034,127215,Married,55,16,Male,White,Not Hispanic,West,53,Management,Not self-employed
+1035,78730,Married,65,17,Female,White,Not Hispanic,West,31,Sales,Not self-employed
+1036,203881,Married,27,17,Male,White,Not Hispanic,West,45,Sales,Self-employed
+1038,23251,Not married,29,16,Female,White,Not Hispanic,West,49,Professional,Self-employed
+1039,45217,Married,56,16,Male,White,Not Hispanic,West,48,Professional,Self-employed
+1042,45285,Not married,69,12,Male,White,Not Hispanic,West,45,Service,Self-employed
+1045,126508,Married,43,16,Female,White,Not Hispanic,Northeast,50,Professional,Not self-employed
+1046,54476,Not married,46,14,Female,White,Not Hispanic,Northeast,35,Production,Not self-employed
+1047,76395,Married,34,16,Male,White,Not Hispanic,Northeast,59,Medical,Not self-employed
+1048,150981,Married,40,19,Male,White,Not Hispanic,Northeast,69,Professional,Not self-employed
+1050,70663,Married,25,16,Female,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+1056,33141,Not married,59,16,Male,White,Not Hispanic,Northeast,31,Professional,Not self-employed
+1057,76576,Married,61,16,Female,White,Not Hispanic,Northeast,54,Professional,Not self-employed
+1059,73232,Not married,29,12,Male,Black,Not Hispanic,Northeast,43,Financial,Not self-employed
+1061,48464,Not married,32,18,Male,White,Not Hispanic,Northeast,54,Professional,Not self-employed
+1065,79786,Not married,54,12,Male,White,Not Hispanic,Northeast,51,Production,Not self-employed
+1068,30440,Married,55,13,Female,White,Not Hispanic,Northeast,35,Production,Not self-employed
+1069,49069,Not married,61,14,Female,Black,Not Hispanic,Northeast,59,Management,Not self-employed
+1070,38720,Not married,26,13,Male,White,Not Hispanic,Northeast,70,Professional,Not self-employed
+1071,58238,Married,60,12,Female,White,Not Hispanic,Northeast,40,Office,Not self-employed
+1073,18259,Not married,25,16,Male,White,Not Hispanic,Northeast,52,Management,Not self-employed
+1074,81106,Married,56,16,Male,White,Not Hispanic,Central,66,Professional,Not self-employed
+1078,43885,Not married,53,11,Male,Black,Not Hispanic,Central,50,Service,Not self-employed
+1080,62944,Not married,29,14,Male,Black,Not Hispanic,Central,28,Construction,Not self-employed
+1081,60421,Married,50,13,Female,White,Not Hispanic,Central,69,Medical,Not self-employed
+1082,38738,Not married,35,16,Female,White,Not Hispanic,Central,33,Service,Not self-employed
+1086,15100,Married,50,8,Female,White,Not Hispanic,Central,31,Sales,Not self-employed
+1089,31264,Not married,52,18,Female,White,Not Hispanic,Central,50,Production,Not self-employed
+1091,40246,Married,38,11,Female,White,Not Hispanic,Central,24,Service,Not self-employed
+1092,81890,Not married,39,12,Female,White,Not Hispanic,Central,38,Sales,Not self-employed
+1095,55363,Married,43,14,Female,Black,Not Hispanic,Central,37,Service,Not self-employed
+1096,59535,Not married,53,12,Female,White,Not Hispanic,Central,38,Construction,Not self-employed
+1097,86873,Not married,39,12,Male,White,Not Hispanic,Central,38,Production,Not self-employed
+1100,32327,Not married,56,12,Female,White,Not Hispanic,Central,21,Service,Not self-employed
+1104,56561,Married,39,13,Female,White,Not Hispanic,Central,52,Management,Not self-employed
+1106,57157,Married,65,12,Male,White,Not Hispanic,Central,35,Production,Not self-employed
+1107,153283,Not married,27,12,Male,White,Not Hispanic,Central,53,Management,Not self-employed
+1123,235682,Married,52,20,Female,White,Not Hispanic,Southeast,55,Service,Not self-employed
+1130,98623,Married,28,16,Male,White,Not Hispanic,Southeast,47,Office,Not self-employed
+1131,127659,Not married,31,14,Male,Black,Not Hispanic,Southeast,60,Professional,Not self-employed
+1132,125405,Not married,43,13,Male,White,Hispanic,Southeast,46,Professional,Self-employed
+1134,108309,Not married,56,10,Male,Other,Hispanic,Southeast,38,Production,Not self-employed
+1136,91092,Married,58,12,Male,White,Not Hispanic,Southeast,38,Production,Self-employed
+1137,87749,Married,38,16,Male,Other,Not Hispanic,Southeast,48,Professional,Not self-employed
+1138,64928,Married,47,16,Female,White,Not Hispanic,Southeast,61,Professional,Not self-employed
+1146,55965,Not married,35,12,Male,Black,Not Hispanic,Southeast,35,Production,Not self-employed
+1147,30375,Not married,49,17,Female,White,Hispanic,Southeast,48,Professional,Not self-employed
+1148,36159,Married,52,12,Male,Other,Hispanic,Southeast,25,Production,Not self-employed
+1150,39124,Not married,52,12,Female,White,Not Hispanic,Southeast,47,Office,Not self-employed
+1157,2746,Not married,33,12,Female,Black,Not Hispanic,Southeast,37,Office,Not self-employed
+1159,109408,Not married,54,14,Female,White,Not Hispanic,Southeast,65,Professional,Not self-employed
+1161,59667,Not married,53,12,Male,White,Hispanic,Southeast,40,Service,Not self-employed
+1162,97929,Not married,62,16,Male,White,Not Hispanic,Southeast,58,Professional,Not self-employed
+1163,71798,Married,48,12,Male,Black,Not Hispanic,Southeast,35,Production,Not self-employed
+1167,81660,Married,40,15,Male,White,Hispanic,Southeast,48,Professional,Not self-employed
+1168,60974,Not married,37,16,Female,White,Not Hispanic,Southeast,52,Professional,Not self-employed
+1170,94282,Married,36,16,Male,White,Not Hispanic,Southeast,43,Professional,Self-employed
+1172,139283,Married,37,19,Female,White,Not Hispanic,Southeast,69,Professional,Not self-employed
+1175,36362,Not married,21,13,Female,White,Not Hispanic,Southeast,36,Service,Not self-employed
+1178,73782,Married,34,11,Male,White,Not Hispanic,West,24,Service,Self-employed
+1189,33900,Not married,21,15,Female,White,Hispanic,West,31,Service,Not self-employed
+1191,7205,Married,51,12,Male,Black,Not Hispanic,West,35,Production,Not self-employed
+1192,120402,Married,39,15,Male,White,Not Hispanic,West,58,Service,Not self-employed
+1193,69197,Not married,35,15,Male,Black,Not Hispanic,West,38,Sales,Not self-employed
+1194,151896,Not married,29,12,Male,White,Hispanic,West,31,Sales,Not self-employed
+1195,94797,Not married,45,12,Male,White,Not Hispanic,West,45,Sales,Not self-employed
+1196,88368,Married,41,20,Male,White,Not Hispanic,West,46,Office,Not self-employed
+1197,60886,Not married,46,16,Male,White,Not Hispanic,West,47,Financial,Not self-employed
+1203,48282,Not married,26,14,Male,White,Not Hispanic,West,45,Service,Not self-employed
+1205,62020,Not married,35,16,Female,Black,Not Hispanic,Northeast,64,Medical,Not self-employed
+1209,68438,Not married,57,12,Male,White,Not Hispanic,Northeast,27,Production,Not self-employed
+1211,49192,Not married,27,14,Female,White,Not Hispanic,Northeast,46,Office,Not self-employed
+1214,34493,Married,44,12,Female,Black,Not Hispanic,Northeast,38,Sales,Not self-employed
+1216,9071,Not married,24,11,Female,White,Not Hispanic,Northeast,46,Professional,Not self-employed
+1219,145816,Married,57,19,Female,White,Not Hispanic,Northeast,64,Management,Not self-employed
+1220,46350,Married,63,12,Female,White,Not Hispanic,Northeast,35,Office,Not self-employed
+1224,57491,Married,53,14,Female,White,Not Hispanic,Northeast,39,Management,Not self-employed
+1225,209513,Married,36,20,Male,White,Not Hispanic,Northeast,72,Medical,Not self-employed
+1227,45226,Not married,37,18,Male,White,Not Hispanic,Northeast,62,Medical,Not self-employed
+1230,45198,Married,28,16,Female,White,Not Hispanic,Northeast,54,Professional,Not self-employed
+1234,23749,Married,59,12,Female,White,Not Hispanic,Northeast,39,Management,Not self-employed
+1235,34439,Married,40,12,Male,White,Not Hispanic,Northeast,49,Construction,Not self-employed
+1236,80424,Not married,35,16,Female,White,Not Hispanic,Southeast,31,Sales,Not self-employed
+1238,84187,Not married,40,16,Male,Black,Not Hispanic,Southeast,26,Production,Self-employed
+1243,72360,Not married,26,20,Male,White,Not Hispanic,Southeast,80,Medical,Not self-employed
+1244,86997,Married,33,16,Male,Other,Not Hispanic,Southeast,74,Professional,Not self-employed
+1245,84042,Not married,48,16,Female,Black,Not Hispanic,Southeast,64,Medical,Not self-employed
+1246,168329,Married,36,16,Female,Other,Not Hispanic,Southeast,66,Medical,Not self-employed
+1248,53184,Married,49,12,Male,Black,Not Hispanic,Southeast,26,Production,Not self-employed
+1249,68609,Married,38,20,Male,White,Not Hispanic,Southeast,61,Professional,Not self-employed
+1250,3150,Married,44,16,Female,White,Not Hispanic,Southeast,18,Service,Not self-employed
+1251,100044,Married,29,17,Female,Black,Not Hispanic,Southeast,60,Financial,Not self-employed
+1254,40155,Married,60,10,Male,Other,Not Hispanic,Southeast,42,Construction,Not self-employed
+1255,69647,Married,43,11,Male,White,Hispanic,Southeast,35,Construction,Self-employed
+1258,103005,Married,30,12,Male,White,Not Hispanic,Southeast,38,Sales,Not self-employed
+1259,173207,Married,69,12,Male,White,Not Hispanic,Southeast,46,Management,Self-employed
+1262,37281,Not married,63,14,Male,White,Not Hispanic,Southeast,35,Production,Not self-employed
+1263,27035,Not married,50,12,Male,White,Not Hispanic,Southeast,40,Production,Not self-employed
+1265,54470,Married,36,14,Female,White,Not Hispanic,Southeast,47,Office,Not self-employed
+1268,29798,Not married,26,12,Male,White,Not Hispanic,Central,52,Professional,Not self-employed
+1269,38759,Not married,49,12,Female,White,Not Hispanic,Central,24,Service,Not self-employed
+1270,47907,Not married,46,11,Female,White,Not Hispanic,Central,25,Production,Not self-employed
+1273,102422,Not married,54,16,Male,White,Not Hispanic,Central,57,Financial,Not self-employed
+1281,34603,Married,56,12,Female,White,Not Hispanic,Northeast,35,Production,Not self-employed
+1282,38265,Not married,30,14,Female,White,Not Hispanic,Northeast,39,Management,Not self-employed
+1285,34556,Not married,31,20,Male,White,Not Hispanic,Northeast,45,Office,Not self-employed
+1287,38503,Married,24,12,Female,White,Not Hispanic,Northeast,51,Medical,Not self-employed
+1289,76863,Not married,62,6,Female,Black,Not Hispanic,Northeast,36,Service,Self-employed
+1291,22452,Not married,23,16,Male,Other,Hispanic,Northeast,48,Medical,Self-employed
+1292,156269,Married,50,13,Male,Black,Not Hispanic,Northeast,49,Construction,Not self-employed
+1298,60078,Married,52,16,Female,White,Not Hispanic,Central,45,Office,Not self-employed
+1306,43765,Not married,65,9,Female,White,Hispanic,Central,16,Service,Not self-employed
+1311,29676,Not married,30,9,Male,White,Not Hispanic,Central,21,Service,Not self-employed
+1316,75282,Not married,39,12,Female,White,Hispanic,Central,39,Management,Not self-employed
+1322,71913,Married,66,12,Female,White,Not Hispanic,Northeast,39,Office,Not self-employed
+1324,84171,Married,63,17,Female,White,Not Hispanic,Northeast,47,Office,Not self-employed
+1327,214454,Married,51,16,Male,Other,Not Hispanic,Northeast,60,Financial,Not self-employed
+1328,129046,Married,30,16,Male,White,Not Hispanic,Northeast,31,Office,Not self-employed
+1329,50338,Not married,32,16,Female,White,Not Hispanic,Northeast,48,Professional,Not self-employed
+1331,155920,Married,42,18,Male,White,Not Hispanic,Northeast,50,Management,Not self-employed
+1332,87988,Not married,48,19,Female,Black,Not Hispanic,Northeast,64,Medical,Not self-employed
+1333,97851,Not married,34,18,Female,White,Not Hispanic,Northeast,52,Management,Not self-employed
+1334,44541,Not married,68,14,Male,Black,Not Hispanic,Northeast,67,Professional,Self-employed
+1338,135199,Married,38,16,Male,White,Not Hispanic,Northeast,53,Management,Not self-employed
+1341,42817,Married,36,12,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+1346,27564,Married,35,16,Female,White,Not Hispanic,Northeast,46,Financial,Self-employed
+1349,109780,Married,48,16,Male,White,Not Hispanic,Northeast,72,Management,Not self-employed
+1350,93909,Not married,27,17,Male,White,Not Hispanic,Northeast,34,Service,Not self-employed
+1354,79660,Not married,30,15,Female,White,Not Hispanic,Northeast,61,Medical,Not self-employed
+1355,83709,Married,42,16,Male,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+1356,55583,Not married,43,12,Male,White,Not Hispanic,Northeast,40,Service,Not self-employed
+1362,84458,Married,41,16,Male,White,Not Hispanic,Northeast,50,Management,Not self-employed
+1363,19605,Not married,57,9,Male,Black,Not Hispanic,Northeast,37,Service,Self-employed
+1364,77884,Married,49,13,Male,Black,Not Hispanic,Northeast,35,Production,Not self-employed
+1371,42684,Not married,58,12,Female,Black,Not Hispanic,Northeast,36,Service,Self-employed
+1373,35182,Not married,26,17,Female,White,Not Hispanic,Northeast,54,Professional,Not self-employed
+1385,202036,Married,53,16,Male,White,Not Hispanic,Northeast,72,Management,Self-employed
+1387,95548,Not married,40,16,Female,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+1388,65113,Married,52,12,Female,White,Not Hispanic,Northeast,52,Financial,Not self-employed
+1389,58878,Married,47,12,Male,White,Not Hispanic,Northeast,50,Production,Not self-employed
+1391,65028,Married,54,12,Female,White,Not Hispanic,Northeast,40,Service,Not self-employed
+1401,13448,Married,54,16,Male,White,Hispanic,West,29,Service,Not self-employed
+1403,2805,Not married,25,14,Female,White,Not Hispanic,West,31,Office,Not self-employed
+1405,19229,Not married,25,14,Male,White,Hispanic,West,18,Service,Not self-employed
+1406,157020,Married,24,15,Male,White,Not Hispanic,West,44,Construction,Not self-employed
+1408,5332,Not married,23,12,Female,White,Not Hispanic,West,47,Office,Not self-employed
+1409,32969,Married,38,6,Male,White,Hispanic,West,31,Construction,Not self-employed
+1410,88237,Married,57,8,Male,White,Hispanic,West,39,Production,Not self-employed
+1419,93587,Married,54,16,Female,White,Not Hispanic,West,46,Office,Self-employed
+1421,176995,Married,37,19,Male,White,Not Hispanic,Northeast,48,Sales,Not self-employed
+1424,53408,Married,37,12,Female,White,Not Hispanic,Northeast,40,Office,Not self-employed
+1425,70027,Married,33,15,Female,White,Not Hispanic,Northeast,45,Financial,Not self-employed
+1430,96382,Married,57,20,Female,White,Not Hispanic,Northeast,71,Professional,Not self-employed
+1431,85509,Not married,50,13,Male,White,Not Hispanic,Northeast,59,Professional,Not self-employed
+1432,41918,Not married,31,14,Male,White,Not Hispanic,Northeast,38,Service,Not self-employed
+1433,86413,Married,36,18,Male,White,Not Hispanic,Northeast,73,Service,Not self-employed
+1434,71197,Not married,83,9,Male,White,Not Hispanic,Northeast,38,Sales,Self-employed
+1435,95017,Not married,58,1,Male,White,Not Hispanic,Northeast,50,Management,Not self-employed
+1436,49726,Not married,29,13,Male,White,Not Hispanic,Northeast,50,Service,Not self-employed
+1437,105811,Married,50,12,Male,White,Not Hispanic,Northeast,33,Construction,Not self-employed
+1439,55996,Married,43,16,Male,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+1440,173303,Married,54,18,Male,White,Not Hispanic,Northeast,52,Management,Not self-employed
+1443,101601,Not married,30,16,Male,White,Not Hispanic,Northeast,53,Financial,Not self-employed
+1444,45189,Not married,36,18,Female,White,Not Hispanic,Northeast,55,Medical,Not self-employed
+1446,93557,Not married,56,12,Female,White,Not Hispanic,Northeast,40,Production,Not self-employed
+1451,110773,Married,53,12,Male,White,Not Hispanic,Northeast,49,Construction,Self-employed
+1453,19366,Married,52,14,Female,White,Not Hispanic,Northeast,33,Service,Self-employed
+1454,59225,Married,37,13,Male,Other,Hispanic,West,40,Service,Not self-employed
+1455,55739,Not married,24,12,Female,White,Not Hispanic,West,55,Medical,Not self-employed
+1457,29231,Married,28,12,Female,White,Not Hispanic,West,52,Management,Not self-employed
+1459,25481,Married,36,12,Male,White,Not Hispanic,West,70,Professional,Not self-employed
+1461,23937,Not married,63,13,Female,Other,Not Hispanic,West,31,Sales,Not self-employed
+1462,13288,Not married,22,15,Male,White,Not Hispanic,West,35,Production,Not self-employed
+1464,2933,Not married,31,11,Female,White,Hispanic,West,53,Professional,Not self-employed
+1465,32692,Not married,31,12,Female,Black,Not Hispanic,West,48,Medical,Not self-employed
+1468,239934,Married,61,18,Male,White,Not Hispanic,West,73,Professional,Self-employed
+1469,20576,Not married,22,14,Male,White,Not Hispanic,West,31,Sales,Not self-employed
+1471,80827,Not married,46,12,Male,White,Not Hispanic,West,39,Production,Not self-employed
+1478,69082,Married,34,15,Male,White,Not Hispanic,Central,66,Professional,Not self-employed
+1481,107653,Not married,57,16,Female,White,Not Hispanic,Central,45,Financial,Not self-employed
+1482,118175,Married,45,14,Male,White,Not Hispanic,Central,24,Service,Not self-employed
+1483,62580,Married,60,9,Male,White,Not Hispanic,Central,45,Service,Not self-employed
+1486,54871,Not married,50,20,Male,Other,Not Hispanic,Central,40,Service,Not self-employed
+1487,49378,Married,29,11,Male,Other,Hispanic,Central,49,Construction,Not self-employed
+1489,50878,Married,59,12,Male,White,Not Hispanic,Central,39,Production,Not self-employed
+1490,87419,Married,38,19,Female,White,Not Hispanic,Central,64,Professional,Not self-employed
+1491,84836,Not married,32,16,Female,White,Not Hispanic,Central,47,Sales,Not self-employed
+1493,71874,Not married,48,14,Male,White,Not Hispanic,Central,33,Financial,Not self-employed
+1494,40098,Married,64,13,Female,White,Not Hispanic,Central,25,Production,Not self-employed
+1495,90651,Not married,30,16,Female,White,Not Hispanic,Central,51,Financial,Not self-employed
+1496,10648,Not married,25,15,Female,Black,Not Hispanic,Central,40,Service,Not self-employed
+1500,70615,Not married,44,14,Male,White,Not Hispanic,Central,48,Sales,Not self-employed
+1501,155980,Not married,55,18,Female,Black,Not Hispanic,Central,60,Professional,Not self-employed
+1502,67156,Not married,25,16,Male,White,Not Hispanic,Central,46,Professional,Not self-employed
+1503,175024,Married,59,17,Male,White,Not Hispanic,Central,66,Medical,Not self-employed
+1504,144792,Not married,60,17,Male,Black,Not Hispanic,Central,51,Financial,Not self-employed
+1510,74972,Not married,50,16,Female,White,Not Hispanic,Northeast,59,Management,Not self-employed
+1512,35255,Not married,29,16,Male,White,Not Hispanic,Northeast,25,Production,Not self-employed
+1513,89297,Not married,50,12,Female,White,Not Hispanic,Northeast,48,Sales,Not self-employed
+1519,18093,Not married,25,15,Female,White,Not Hispanic,Northeast,33,Service,Not self-employed
+1523,101353,Married,47,16,Male,White,Not Hispanic,Northeast,59,Management,Not self-employed
+1530,98053,Not married,47,20,Male,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+1533,30587,Not married,34,20,Male,White,Not Hispanic,Northeast,38,Office,Not self-employed
+1536,87745,Not married,53,18,Male,White,Not Hispanic,Northeast,74,Professional,Not self-employed
+1537,61661,Not married,64,19,Female,White,Not Hispanic,Northeast,69,Professional,Self-employed
+1538,216496,Not married,68,16,Male,White,Not Hispanic,Northeast,69,Medical,Not self-employed
+1549,68015,Married,59,16,Female,White,Not Hispanic,Northeast,55,Professional,Not self-employed
+1552,47272,Married,54,16,Male,White,Not Hispanic,Northeast,51,Financial,Self-employed
+1553,21955,Not married,24,14,Male,White,Not Hispanic,Northeast,25,Office,Not self-employed
+1555,17911,Not married,52,12,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+1556,10094,Not married,26,12,Male,White,Not Hispanic,Northeast,45,Professional,Not self-employed
+1560,81694,Not married,58,16,Male,White,Not Hispanic,Northeast,31,Office,Not self-employed
+1565,94829,Married,63,12,Female,White,Not Hispanic,Northeast,49,Construction,Self-employed
+1568,105120,Not married,63,18,Female,White,Not Hispanic,Northeast,39,Management,Not self-employed
+1571,91076,Married,53,16,Male,White,Not Hispanic,Northeast,53,Management,Self-employed
+1572,106261,Married,49,16,Female,White,Not Hispanic,Northeast,59,Management,Not self-employed
+1573,166008,Married,57,18,Male,White,Not Hispanic,Northeast,59,Management,Not self-employed
+1574,51632,Not married,41,13,Female,White,Not Hispanic,Northeast,52,Medical,Not self-employed
+1575,106988,Not married,42,18,Female,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+1581,57610,Not married,55,12,Male,White,Not Hispanic,Northeast,31,Sales,Self-employed
+1583,20942,Not married,32,14,Male,White,Not Hispanic,Northeast,21,Sales,Self-employed
+1585,83657,Not married,35,13,Male,White,Not Hispanic,Northeast,64,Management,Not self-employed
+1587,29803,Married,32,14,Female,Black,Not Hispanic,Northeast,25,Service,Not self-employed
+1589,54668,Not married,28,14,Male,White,Not Hispanic,Northeast,36,Service,Not self-employed
+1590,45527,Married,59,14,Female,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+1594,62247,Married,35,14,Male,White,Not Hispanic,Northeast,39,Management,Not self-employed
+1596,143405,Married,52,20,Female,White,Not Hispanic,Northeast,74,Professional,Not self-employed
+1600,94832,Married,48,13,Male,White,Not Hispanic,Northeast,47,Financial,Not self-employed
+1603,39849,Not married,66,12,Female,White,Not Hispanic,Northeast,69,Medical,Not self-employed
+1607,14744,Not married,35,13,Female,Black,Not Hispanic,Northeast,48,Service,Not self-employed
+1612,76922,Not married,37,14,Male,White,Not Hispanic,Northeast,59,Medical,Not self-employed
+1617,76231,Married,30,14,Male,White,Not Hispanic,Northeast,17,Office,Not self-employed
+1618,98600,Not married,56,17,Female,Black,Not Hispanic,Northeast,47,Financial,Not self-employed
+1622,43173,Not married,51,12,Female,White,Not Hispanic,Northeast,33,Service,Not self-employed
+1630,39292,Not married,25,12,Male,Black,Not Hispanic,Southeast,24,Service,Not self-employed
+1632,119849,Not married,37,12,Female,Black,Not Hispanic,Southeast,48,Medical,Not self-employed
+1635,11658,Not married,30,14,Female,White,Not Hispanic,Southeast,38,Sales,Not self-employed
+1637,65266,Not married,45,18,Female,White,Not Hispanic,Southeast,51,Office,Not self-employed
+1640,73277,Married,37,12,Male,White,Not Hispanic,Southeast,49,Construction,Not self-employed
+1642,67550,Married,59,11,Male,White,Not Hispanic,Southeast,32,Construction,Not self-employed
+1644,56434,Not married,29,15,Female,White,Not Hispanic,Southeast,55,Medical,Not self-employed
+1655,64200,Not married,28,16,Female,White,Not Hispanic,Southeast,66,Production,Not self-employed
+1658,26454,Not married,30,14,Female,White,Not Hispanic,Southeast,44,Professional,Not self-employed
+1663,55308,Married,43,13,Female,White,Not Hispanic,Southeast,17,Office,Not self-employed
+1664,40024,Not married,27,16,Male,White,Not Hispanic,Southeast,31,Sales,Not self-employed
+1665,52449,Married,36,16,Male,White,Not Hispanic,Southeast,59,Service,Not self-employed
+1671,8904,Not married,23,16,Female,White,Not Hispanic,Southeast,30,Office,Not self-employed
+1675,52823,Not married,39,12,Female,White,Not Hispanic,Southeast,27,Production,Not self-employed
+1676,32876,Not married,47,16,Female,Other,Not Hispanic,Southeast,31,Sales,Not self-employed
+1678,95564,Not married,52,18,Male,White,Hispanic,Southeast,65,Service,Not self-employed
+1679,27655,Married,60,8,Female,White,Not Hispanic,Southeast,24,Service,Not self-employed
+1685,63042,Not married,38,17,Male,White,Not Hispanic,Southeast,55,Professional,Not self-employed
+1687,56536,Married,56,12,Female,White,Not Hispanic,Southeast,59,Management,Not self-employed
+1688,42751,Not married,42,12,Male,White,Not Hispanic,Southeast,28,Construction,Not self-employed
+1692,59487,Not married,50,16,Female,Black,Not Hispanic,Southeast,46,Office,Not self-employed
+1696,109469,Not married,60,12,Female,Black,Not Hispanic,Southeast,45,Office,Not self-employed
+1700,38117,Married,59,16,Female,Black,Not Hispanic,Southeast,53,Professional,Not self-employed
+1703,78930,Not married,48,9,Female,White,Not Hispanic,Southeast,35,Production,Not self-employed
+1706,61806,Married,34,16,Male,White,Not Hispanic,Southeast,45,Production,Not self-employed
+1710,44262,Married,64,14,Male,White,Not Hispanic,Southeast,39,Management,Not self-employed
+1714,38166,Not married,28,12,Male,Black,Not Hispanic,Southeast,35,Production,Not self-employed
+1715,4749,Married,41,16,Female,White,Hispanic,Southeast,53,Professional,Not self-employed
+1718,39241,Not married,35,14,Female,Black,Not Hispanic,Southeast,40,Service,Not self-employed
+1721,9973,Not married,26,12,Female,Black,Not Hispanic,Southeast,30,Office,Not self-employed
+1723,36994,Not married,62,12,Male,Black,Not Hispanic,Southeast,25,Office,Not self-employed
+1726,46369,Not married,55,14,Female,Black,Not Hispanic,Southeast,47,Office,Not self-employed
+1730,22877,Married,31,14,Female,Black,Not Hispanic,Southeast,31,Sales,Not self-employed
+1735,41252,Married,27,14,Female,White,Not Hispanic,Southeast,38,Sales,Not self-employed
+1737,52311,Married,58,12,Female,White,Not Hispanic,Southeast,46,Financial,Not self-employed
+1740,64053,Married,52,16,Female,White,Not Hispanic,Southeast,46,Professional,Not self-employed
+1745,32045,Married,65,6,Male,White,Not Hispanic,Southeast,31,Sales,Self-employed
+1746,98739,Not married,28,16,Male,White,Not Hispanic,Southeast,41,Management,Not self-employed
+1748,56676,Not married,49,12,Male,White,Not Hispanic,Southeast,35,Production,Not self-employed
+1749,33343,Not married,33,18,Male,Black,Not Hispanic,Southeast,54,Professional,Not self-employed
+1752,14282,Not married,39,14,Female,Black,Not Hispanic,Southeast,31,Office,Not self-employed
+1753,36394,Not married,37,16,Female,Black,Not Hispanic,Southeast,58,Service,Not self-employed
+1755,111286,Not married,36,16,Female,White,Not Hispanic,Southeast,64,Management,Self-employed
+1757,6132,Not married,44,12,Male,Black,Not Hispanic,Southeast,32,Production,Not self-employed
+1758,5392,Not married,66,20,Female,Black,Not Hispanic,Southeast,64,Management,Not self-employed
+1764,29627,Married,30,14,Male,Black,Not Hispanic,Southeast,39,Construction,Not self-employed
+1766,36135,Married,48,12,Male,Black,Not Hispanic,Southeast,36,Production,Not self-employed
+1768,87397,Not married,47,12,Male,Black,Not Hispanic,Southeast,59,Management,Not self-employed
+1774,91369,Not married,39,16,Female,White,Not Hispanic,Southeast,60,Professional,Not self-employed
+1775,43176,Not married,55,14,Female,White,Not Hispanic,Southeast,32,Office,Not self-employed
+1777,22794,Not married,21,12,Female,White,Not Hispanic,Southeast,31,Office,Not self-employed
+1781,65219,Not married,52,14,Male,White,Not Hispanic,Southeast,57,Financial,Self-employed
+1786,45515,Not married,32,12,Male,Black,Not Hispanic,Southeast,44,Construction,Not self-employed
+1787,41694,Married,50,12,Male,White,Hispanic,Southeast,55,Medical,Not self-employed
+1798,60036,Not married,40,14,Female,Black,Not Hispanic,Southeast,45,Office,Not self-employed
+1799,65615,Not married,41,15,Male,White,Not Hispanic,Southeast,39,Management,Not self-employed
+1801,86382,Married,57,12,Male,White,Not Hispanic,Southeast,50,Professional,Not self-employed
+1807,106443,Married,32,16,Male,White,Not Hispanic,Southeast,63,Service,Not self-employed
+1808,133266,Married,33,18,Female,White,Not Hispanic,Southeast,53,Management,Not self-employed
+1810,170016,Not married,61,16,Female,White,Not Hispanic,Southeast,64,Medical,Not self-employed
+1812,86324,Not married,48,14,Male,Black,Not Hispanic,Southeast,32,Service,Not self-employed
+1814,122152,Married,61,13,Male,White,Not Hispanic,Southeast,63,Professional,Not self-employed
+1816,96670,Married,57,12,Male,White,Not Hispanic,Southeast,35,Service,Self-employed
+1822,56975,Married,56,12,Male,White,Not Hispanic,Southeast,36,Production,Not self-employed
+1825,68320,Not married,50,16,Male,White,Not Hispanic,Southeast,61,Professional,Not self-employed
+1826,91320,Not married,25,16,Male,White,Not Hispanic,Southeast,64,Medical,Not self-employed
+1827,59199,Not married,36,16,Female,Black,Not Hispanic,Southeast,54,Professional,Not self-employed
+1829,30661,Not married,53,14,Female,Black,Not Hispanic,Southeast,31,Office,Not self-employed
+1835,50736,Married,43,9,Male,White,Hispanic,Southeast,35,Production,Not self-employed
+1837,59677,Not married,61,12,Male,White,Not Hispanic,Southeast,42,Construction,Not self-employed
+1838,79714,Married,37,16,Female,White,Not Hispanic,Southeast,59,Medical,Not self-employed
+1839,41323,Married,45,14,Male,White,Not Hispanic,Southeast,56,Construction,Not self-employed
+1843,51726,Married,40,14,Female,White,Not Hispanic,Central,47,Office,Not self-employed
+1846,46994,Married,44,12,Male,White,Not Hispanic,Central,31,Construction,Not self-employed
+1848,265595,Married,67,16,Male,White,Not Hispanic,Central,42,Financial,Not self-employed
+1850,10302,Not married,24,12,Male,White,Not Hispanic,Central,44,Construction,Not self-employed
+1852,55971,Married,35,14,Female,White,Not Hispanic,Central,48,Medical,Not self-employed
+1854,11953,Not married,79,14,Male,White,Not Hispanic,Central,38,Sales,Self-employed
+1858,38943,Married,52,16,Female,Black,Not Hispanic,Central,18,Service,Not self-employed
+1861,69215,Not married,42,15,Female,Other,Hispanic,Central,61,Medical,Not self-employed
+1873,31344,Married,62,12,Male,White,Not Hispanic,Central,39,Management,Self-employed
+1878,28025,Married,58,12,Female,White,Not Hispanic,Central,47,Office,Not self-employed
+1880,206492,Married,65,18,Male,Black,Not Hispanic,Central,39,Management,Not self-employed
+1885,104381,Married,56,17,Male,Black,Not Hispanic,Central,51,Financial,Self-employed
+1889,139630,Married,53,20,Male,White,Not Hispanic,Central,74,Professional,Not self-employed
+1893,98582,Married,43,14,Male,White,Not Hispanic,Central,46,Construction,Not self-employed
+1899,98031,Married,52,18,Male,White,Not Hispanic,Central,65,Professional,Not self-employed
+1900,76424,Married,29,12,Male,White,Not Hispanic,Central,63,Professional,Not self-employed
+1901,24519,Not married,38,14,Female,White,Not Hispanic,Central,30,Office,Not self-employed
+1902,36938,Not married,63,13,Female,White,Not Hispanic,Central,31,Sales,Not self-employed
+1904,64260,Married,35,13,Female,Black,Not Hispanic,Central,45,Office,Not self-employed
+1906,43210,Married,41,14,Female,Black,Not Hispanic,Central,38,Sales,Not self-employed
+1907,60630,Not married,53,12,Female,Black,Not Hispanic,Central,24,Production,Not self-employed
+1910,26432,Not married,24,12,Female,Black,Not Hispanic,Central,28,Sales,Not self-employed
+1913,90628,Married,58,12,Male,Black,Not Hispanic,Central,50,Production,Not self-employed
+1916,22001,Not married,39,15,Female,Black,Not Hispanic,Central,48,Professional,Not self-employed
+1917,91137,Not married,47,20,Female,Black,Not Hispanic,Central,69,Professional,Not self-employed
+1928,6547,Not married,67,16,Female,Black,Not Hispanic,Central,35,Service,Not self-employed
+1929,63648,Married,55,16,Female,Black,Not Hispanic,Central,54,Professional,Not self-employed
+1937,50185,Not married,43,12,Male,Other,Hispanic,Central,28,Construction,Not self-employed
+1938,54125,Married,62,14,Male,White,Not Hispanic,Central,47,Professional,Not self-employed
+1939,27446,Not married,39,13,Female,White,Not Hispanic,Central,47,Office,Not self-employed
+1948,38068,Not married,47,12,Male,Other,Not Hispanic,Central,35,Production,Not self-employed
+1951,57194,Married,57,12,Female,White,Not Hispanic,Central,35,Production,Not self-employed
+1952,67593,Married,35,12,Male,White,Not Hispanic,Central,43,Professional,Not self-employed
+1956,5341,Married,33,12,Male,White,Not Hispanic,Central,60,Medical,Not self-employed
+1960,136131,Not married,58,16,Male,White,Not Hispanic,Central,32,Production,Not self-employed
+1964,21281,Not married,28,11,Female,Black,Not Hispanic,Central,31,Office,Not self-employed
+1965,46925,Married,34,11,Male,Black,Not Hispanic,Central,44,Construction,Self-employed
+1971,146736,Married,65,18,Male,White,Not Hispanic,Central,60,Financial,Not self-employed
+1974,31487,Not married,44,11,Male,White,Not Hispanic,Northeast,24,Service,Not self-employed
+1978,60728,Married,26,17,Female,White,Not Hispanic,Northeast,48,Medical,Not self-employed
+1979,30242,Not married,57,12,Male,White,Not Hispanic,Northeast,46,Office,Not self-employed
+1982,92960,Not married,51,12,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+1984,40002,Married,27,16,Male,White,Not Hispanic,Southeast,47,Sales,Not self-employed
+1985,45200,Married,27,12,Male,White,Not Hispanic,Southeast,44,Construction,Not self-employed
+1989,55281,Married,46,15,Male,White,Not Hispanic,Southeast,49,Construction,Not self-employed
+1991,21219,Married,69,15,Female,White,Not Hispanic,Southeast,48,Medical,Not self-employed
+1998,53842,Married,54,17,Female,White,Not Hispanic,Southeast,36,Office,Not self-employed
+1999,58738,Not married,61,13,Male,White,Not Hispanic,Southeast,25,Production,Not self-employed
+2000,105235,Married,61,12,Male,White,Not Hispanic,Southeast,40,Construction,Not self-employed
+2008,95889,Married,44,16,Male,White,Not Hispanic,Southeast,45,Production,Not self-employed
+2009,159693,Married,39,19,Male,White,Not Hispanic,Southeast,35,Production,Not self-employed
+2010,104640,Not married,29,16,Male,Other,Hispanic,Southeast,27,Production,Not self-employed
+2012,139868,Not married,60,20,Female,White,Not Hispanic,Southeast,59,Management,Not self-employed
+2016,111280,Married,30,15,Male,White,Not Hispanic,Southeast,64,Medical,Not self-employed
+2019,24914,Married,52,12,Female,White,Not Hispanic,Northeast,48,Service,Not self-employed
+2032,71025,Married,44,13,Female,White,Not Hispanic,Northeast,26,Production,Not self-employed
+2038,741,Not married,23,12,Male,White,Not Hispanic,Northeast,38,Office,Not self-employed
+2039,97372,Married,33,16,Male,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+2044,47004,Married,63,12,Female,White,Not Hispanic,Northeast,45,Office,Not self-employed
+2051,46926,Married,35,11,Male,White,Not Hispanic,Northeast,34,Construction,Self-employed
+2055,84603,Not married,34,12,Male,White,Not Hispanic,Northeast,52,Management,Not self-employed
+2056,45232,Married,38,16,Male,Black,Not Hispanic,Northeast,44,Management,Not self-employed
+2060,96067,Not married,64,15,Female,Black,Not Hispanic,Northeast,61,Medical,Not self-employed
+2063,91594,Married,41,16,Female,White,Not Hispanic,Northeast,39,Management,Not self-employed
+2066,37449,Not married,62,18,Female,White,Not Hispanic,Northeast,33,Financial,Not self-employed
+2068,42998,Not married,59,12,Male,White,Not Hispanic,Northeast,24,Service,Not self-employed
+2072,200581,Not married,52,18,Male,White,Not Hispanic,Northeast,50,Management,Not self-employed
+2073,7615,Married,54,16,Female,White,Not Hispanic,Northeast,74,Professional,Not self-employed
+2075,82491,Married,42,20,Male,White,Not Hispanic,Northeast,72,Management,Not self-employed
+2078,26856,Not married,41,12,Female,White,Not Hispanic,Northeast,38,Office,Not self-employed
+2082,87776,Married,46,18,Male,White,Not Hispanic,Northeast,59,Management,Not self-employed
+2084,85187,Not married,57,12,Male,White,Not Hispanic,Northeast,35,Production,Self-employed
+2087,60334,Married,42,12,Male,White,Not Hispanic,Northeast,65,Professional,Not self-employed
+2088,52449,Married,60,13,Male,White,Not Hispanic,Northeast,27,Construction,Not self-employed
+2089,115331,Married,33,12,Male,White,Not Hispanic,Northeast,39,Management,Self-employed
+2099,33376,Not married,35,9,Female,White,Not Hispanic,Northeast,39,Office,Not self-employed
+2105,59307,Married,30,15,Male,White,Not Hispanic,Northeast,61,Medical,Not self-employed
+2107,72397,Married,35,12,Male,White,Not Hispanic,Northeast,31,Construction,Not self-employed
+2113,12659,Not married,53,14,Female,White,Not Hispanic,Northeast,39,Production,Not self-employed
+2114,81030,Married,32,14,Male,White,Not Hispanic,Northeast,25,Production,Not self-employed
+2118,94139,Not married,57,13,Male,White,Not Hispanic,Northeast,38,Service,Not self-employed
+2121,60007,Not married,53,12,Female,White,Not Hispanic,Northeast,24,Service,Not self-employed
+2122,126624,Not married,37,16,Male,White,Not Hispanic,Northeast,70,Professional,Not self-employed
+2128,110171,Married,53,14,Male,White,Not Hispanic,Northeast,45,Sales,Self-employed
+2130,44690,Married,47,16,Female,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+2134,117877,Married,49,12,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+2135,52152,Married,65,17,Male,White,Not Hispanic,Northeast,47,Sales,Not self-employed
+2136,39830,Married,41,10,Male,White,Not Hispanic,Northeast,38,Service,Not self-employed
+2138,48057,Married,61,12,Female,White,Not Hispanic,Northeast,47,Office,Not self-employed
+2139,83510,Married,32,20,Female,White,Not Hispanic,Northeast,60,Financial,Not self-employed
+2142,44411,Married,48,12,Female,White,Not Hispanic,Northeast,47,Financial,Not self-employed
+2143,183432,Married,45,14,Male,Other,Not Hispanic,Northeast,35,Production,Self-employed
+2144,58817,Married,58,12,Male,White,Not Hispanic,Northeast,25,Production,Not self-employed
+2148,100589,Not married,41,12,Male,White,Not Hispanic,Northeast,63,Professional,Not self-employed
+2154,46344,Not married,42,11,Male,White,Not Hispanic,Northeast,36,Production,Not self-employed
+2156,28792,Not married,29,12,Female,White,Not Hispanic,Northeast,31,Service,Not self-employed
+2157,79725,Not married,37,16,Male,White,Not Hispanic,Northeast,47,Office,Not self-employed
+2158,32701,Not married,61,12,Female,White,Not Hispanic,Northeast,49,Medical,Not self-employed
+2159,62561,Not married,71,14,Male,White,Not Hispanic,Central,51,Professional,Not self-employed
+2161,31229,Not married,21,12,Male,Black,Not Hispanic,Central,49,Construction,Not self-employed
+2162,47456,Married,63,14,Female,White,Not Hispanic,Central,48,Medical,Not self-employed
+2166,33047,Not married,33,11,Male,White,Not Hispanic,Central,38,Production,Not self-employed
+2168,39726,Not married,26,15,Male,White,Not Hispanic,Central,48,Professional,Not self-employed
+2171,40795,Married,81,13,Male,White,Not Hispanic,Central,30,Sales,Not self-employed
+2176,83324,Married,48,14,Female,White,Not Hispanic,Central,52,Professional,Not self-employed
+2177,31589,Not married,39,12,Female,White,Not Hispanic,Central,35,Construction,Self-employed
+2179,18613,Not married,25,11,Male,White,Not Hispanic,Central,35,Construction,Not self-employed
+2181,45680,Married,53,14,Female,White,Not Hispanic,Central,46,Financial,Not self-employed
+2184,72980,Not married,60,12,Female,White,Not Hispanic,Central,32,Service,Not self-employed
+2186,52893,Not married,32,13,Male,White,Not Hispanic,Central,43,Professional,Not self-employed
+2187,71433,Married,49,13,Female,White,Not Hispanic,Central,28,Sales,Not self-employed
+2189,117666,Married,31,19,Female,White,Not Hispanic,Central,47,Financial,Not self-employed
+2192,49698,Not married,24,16,Female,White,Not Hispanic,Central,47,Financial,Not self-employed
+2193,88933,Married,29,18,Male,White,Not Hispanic,Central,63,Professional,Not self-employed
+2196,59586,Not married,25,18,Male,White,Not Hispanic,Central,39,Production,Not self-employed
+2197,21046,Not married,50,20,Male,White,Not Hispanic,Central,48,Professional,Not self-employed
+2199,51018,Married,33,12,Male,White,Not Hispanic,Central,65,Professional,Not self-employed
+2200,45840,Married,67,14,Male,White,Not Hispanic,Central,48,Medical,Not self-employed
+2205,72443,Married,45,19,Male,White,Not Hispanic,Central,31,Office,Not self-employed
+2212,17506,Not married,43,12,Male,Other,Hispanic,Central,39,Management,Self-employed
+2214,47625,Not married,67,12,Male,White,Hispanic,Central,27,Service,Not self-employed
+2218,8965,Not married,32,10,Male,White,Not Hispanic,Central,33,Service,Not self-employed
+2222,121121,Married,46,12,Male,Other,Hispanic,Central,58,Service,Not self-employed
+2231,88348,Married,33,15,Male,White,Not Hispanic,Central,63,Professional,Not self-employed
+2232,12361,Not married,22,13,Female,Black,Not Hispanic,Central,48,Service,Not self-employed
+2234,48236,Married,32,16,Male,White,Not Hispanic,Central,37,Service,Not self-employed
+2240,56343,Married,27,16,Male,White,Not Hispanic,Central,60,Service,Not self-employed
+2241,51545,Married,29,12,Male,Black,Not Hispanic,Central,35,Production,Not self-employed
+2247,3340,Not married,53,12,Female,Black,Not Hispanic,Central,25,Service,Not self-employed
+2251,55155,Not married,48,12,Male,Black,Not Hispanic,Central,47,Production,Not self-employed
+2255,15779,Not married,44,7,Female,Black,Not Hispanic,Central,48,Service,Not self-employed
+2259,31362,Married,49,12,Male,Black,Not Hispanic,Central,37,Service,Not self-employed
+2263,128497,Married,43,16,Male,White,Not Hispanic,Central,34,Office,Not self-employed
+2264,19444,Not married,41,12,Female,White,Hispanic,Central,64,Medical,Not self-employed
+2265,115066,Married,42,11,Male,White,Hispanic,Central,36,Production,Not self-employed
+2268,84410,Married,44,14,Female,White,Not Hispanic,Central,64,Medical,Not self-employed
+2272,32695,Married,56,12,Female,White,Not Hispanic,Central,55,Professional,Not self-employed
+2274,94025,Married,53,12,Male,White,Not Hispanic,Central,49,Construction,Not self-employed
+2275,186249,Married,33,10,Male,Other,Hispanic,Central,32,Construction,Not self-employed
+2276,20766,Not married,26,11,Female,Other,Hispanic,Central,24,Sales,Not self-employed
+2277,97460,Not married,56,12,Female,White,Not Hispanic,Central,53,Management,Not self-employed
+2278,6708,Married,40,11,Male,White,Not Hispanic,Central,42,Construction,Not self-employed
+2280,7360,Not married,59,14,Female,White,Not Hispanic,Central,50,Service,Not self-employed
+2281,32485,Not married,52,16,Female,Black,Not Hispanic,Central,25,Service,Not self-employed
+2284,51695,Married,70,16,Male,White,Hispanic,Central,47,Financial,Not self-employed
+2290,5272,Married,46,14,Female,White,Hispanic,Central,45,Service,Self-employed
+2292,122454,Not married,24,12,Male,Other,Hispanic,Central,42,Construction,Not self-employed
+2295,27861,Not married,24,13,Female,Black,Not Hispanic,Central,48,Medical,Not self-employed
+2296,24142,Married,66,12,Male,White,Hispanic,Central,44,Construction,Self-employed
+2301,57729,Not married,54,14,Female,White,Hispanic,Central,40,Service,Not self-employed
+2303,45709,Married,37,15,Male,White,Hispanic,Central,45,Sales,Not self-employed
+2305,78488,Married,54,12,Male,White,Hispanic,Central,44,Construction,Not self-employed
+2308,25834,Not married,35,11,Female,Black,Not Hispanic,Central,33,Service,Not self-employed
+2310,35077,Married,55,6,Male,White,Hispanic,Central,33,Service,Not self-employed
+2317,40283,Married,25,14,Female,White,Not Hispanic,Central,32,Office,Not self-employed
+2318,59634,Not married,30,16,Male,White,Not Hispanic,West,60,Service,Not self-employed
+2319,72109,Not married,58,14,Female,Other,Hispanic,West,38,Sales,Not self-employed
+2321,50555,Not married,28,14,Female,White,Not Hispanic,West,48,Service,Not self-employed
+2322,64932,Married,51,12,Male,White,Not Hispanic,West,28,Construction,Not self-employed
+2323,65414,Married,35,16,Male,White,Not Hispanic,West,73,Service,Not self-employed
+2324,44256,Not married,22,14,Female,Black,Hispanic,West,48,Medical,Not self-employed
+2326,96930,Not married,59,19,Female,White,Not Hispanic,West,55,Medical,Not self-employed
+2334,7857,Not married,26,9,Female,Other,Hispanic,West,31,Service,Not self-employed
+2337,130693,Married,38,16,Male,White,Not Hispanic,West,39,Management,Not self-employed
+2340,62885,Not married,55,18,Male,White,Not Hispanic,West,62,Medical,Not self-employed
+2341,53765,Not married,46,20,Female,White,Not Hispanic,West,38,Sales,Not self-employed
+2344,12745,Not married,31,12,Male,White,Not Hispanic,West,21,Service,Not self-employed
+2345,186703,Not married,53,12,Male,White,Not Hispanic,West,35,Construction,Self-employed
+2348,180354,Married,38,18,Male,White,Not Hispanic,West,65,Production,Not self-employed
+2349,150861,Married,44,18,Male,White,Not Hispanic,West,50,Management,Not self-employed
+2352,52109,Not married,52,16,Female,White,Not Hispanic,West,50,Professional,Not self-employed
+2354,84410,Not married,43,19,Female,White,Not Hispanic,West,59,Management,Not self-employed
+2358,91662,Not married,50,16,Female,White,Not Hispanic,West,56,Medical,Not self-employed
+2360,62600,Not married,50,18,Female,White,Not Hispanic,West,39,Production,Not self-employed
+2361,97254,Not married,62,18,Female,White,Not Hispanic,West,60,Financial,Not self-employed
+2364,79655,Married,30,16,Female,White,Not Hispanic,West,61,Medical,Not self-employed
+2368,202367,Married,36,18,Female,White,Not Hispanic,West,53,Management,Not self-employed
+2373,60956,Married,37,13,Female,White,Not Hispanic,West,46,Office,Not self-employed
+2376,89969,Married,61,14,Male,Black,Not Hispanic,West,72,Management,Not self-employed
+2379,2713,Not married,21,12,Female,White,Hispanic,West,48,Service,Not self-employed
+2380,22221,Not married,68,20,Female,White,Not Hispanic,West,66,Professional,Not self-employed
+2391,92841,Married,52,16,Female,White,Not Hispanic,West,48,Sales,Not self-employed
+2393,87887,Married,42,14,Female,White,Not Hispanic,West,52,Professional,Not self-employed
+2394,67319,Married,33,9,Male,Other,Hispanic,West,42,Construction,Not self-employed
+2397,28131,Not married,37,12,Male,Other,Hispanic,West,37,Service,Self-employed
+2398,52457,Married,54,11,Male,White,Not Hispanic,West,45,Service,Not self-employed
+2404,55446,Married,34,16,Male,Other,Hispanic,West,28,Construction,Not self-employed
+2406,29994,Married,36,13,Female,White,Hispanic,West,46,Financial,Not self-employed
+2414,109674,Not married,56,16,Male,White,Not Hispanic,West,45,Service,Self-employed
+2415,84776,Not married,29,16,Female,White,Hispanic,West,48,Professional,Self-employed
+2417,48922,Not married,31,12,Female,Other,Hispanic,West,50,Production,Not self-employed
+2421,52824,Married,56,14,Female,White,Not Hispanic,West,48,Medical,Not self-employed
+2422,58477,Married,37,17,Female,White,Not Hispanic,West,64,Professional,Not self-employed
+2426,33812,Married,42,12,Male,White,Not Hispanic,West,48,Professional,Not self-employed
+2427,34402,Not married,56,20,Female,White,Not Hispanic,West,33,Financial,Not self-employed
+2430,68578,Not married,62,16,Female,White,Not Hispanic,West,46,Office,Not self-employed
+2431,53408,Not married,27,20,Female,White,Not Hispanic,West,61,Professional,Not self-employed
+2440,114278,Married,52,15,Male,White,Not Hispanic,West,45,Sales,Self-employed
+2441,81930,Married,43,16,Female,White,Not Hispanic,West,51,Financial,Self-employed
+2446,132014,Married,58,18,Female,White,Not Hispanic,West,71,Professional,Self-employed
+2451,694,Not married,45,9,Male,White,Not Hispanic,West,24,Service,Not self-employed
+2456,39454,Not married,53,14,Male,White,Not Hispanic,West,44,Construction,Not self-employed
+2458,107158,Married,57,14,Female,White,Not Hispanic,West,17,Office,Not self-employed
+2463,80948,Married,36,19,Female,White,Not Hispanic,West,71,Professional,Not self-employed
+2467,167157,Not married,46,20,Female,White,Not Hispanic,West,74,Professional,Not self-employed
+2472,96483,Not married,26,16,Male,White,Not Hispanic,West,53,Management,Not self-employed
+2473,33373,Not married,25,12,Male,White,Not Hispanic,West,38,Sales,Not self-employed
+2476,29626,Not married,34,14,Male,White,Not Hispanic,West,35,Production,Not self-employed
+2477,55835,Married,39,16,Female,White,Not Hispanic,West,45,Office,Not self-employed
+2480,25104,Married,46,3,Female,White,Hispanic,West,21,Sales,Self-employed
+2486,191582,Married,50,12,Female,White,Not Hispanic,West,40,Office,Not self-employed
+2487,28346,Not married,57,12,Female,White,Not Hispanic,West,48,Medical,Not self-employed
+2489,14789,Married,31,14,Female,White,Not Hispanic,West,48,Professional,Not self-employed
+2491,17176,Married,67,14,Male,White,Not Hispanic,West,57,Service,Not self-employed
+2496,43217,Married,37,13,Female,White,Not Hispanic,West,43,Office,Not self-employed
+2499,94015,Married,42,12,Male,White,Not Hispanic,West,44,Construction,Self-employed
+2502,83010,Not married,50,20,Female,Black,Not Hispanic,West,54,Professional,Not self-employed
+2505,16188,Married,28,12,Female,White,Not Hispanic,West,31,Sales,Not self-employed
+2508,62316,Married,54,12,Male,White,Not Hispanic,West,36,Construction,Not self-employed
+2509,23924,Not married,27,13,Female,White,Not Hispanic,West,31,Office,Not self-employed
+2513,38372,Not married,27,14,Female,White,Not Hispanic,West,52,Professional,Not self-employed
+2515,31259,Married,27,14,Male,White,Not Hispanic,West,45,Sales,Not self-employed
+2518,17954,Not married,30,12,Male,White,Not Hispanic,West,33,Construction,Not self-employed
+2519,64628,Not married,34,17,Female,White,Not Hispanic,West,33,Financial,Not self-employed
+2520,34125,Married,36,14,Female,White,Not Hispanic,West,69,Medical,Not self-employed
+2526,33036,Married,23,13,Female,White,Not Hispanic,West,25,Office,Not self-employed
+2527,76711,Married,35,13,Male,Black,Not Hispanic,West,44,Management,Not self-employed
+2528,30965,Married,28,13,Male,White,Not Hispanic,West,46,Office,Not self-employed
+2532,50010,Not married,54,17,Male,White,Not Hispanic,West,47,Production,Not self-employed
+2534,42828,Not married,47,12,Female,White,Not Hispanic,West,55,Medical,Not self-employed
+2535,158544,Not married,54,15,Female,White,Not Hispanic,West,60,Management,Not self-employed
+2536,53612,Married,55,12,Female,White,Not Hispanic,West,47,Sales,Self-employed
+2537,67584,Married,58,8,Male,White,Not Hispanic,West,44,Construction,Self-employed
+2538,130450,Married,66,13,Female,White,Not Hispanic,West,60,Professional,Not self-employed
+2539,89722,Married,60,14,Female,White,Not Hispanic,West,45,Office,Not self-employed
+2540,41627,Married,27,17,Female,White,Not Hispanic,West,33,Financial,Not self-employed
+2543,52526,Married,34,17,Female,Other,Not Hispanic,Central,61,Professional,Not self-employed
+2545,151182,Married,58,15,Male,White,Not Hispanic,Central,60,Professional,Not self-employed
+2546,47165,Not married,22,15,Male,White,Not Hispanic,Central,34,Professional,Not self-employed
+2547,53362,Married,40,10,Male,White,Not Hispanic,Central,38,Construction,Not self-employed
+2549,2625,Married,29,11,Male,Other,Not Hispanic,Central,38,Production,Not self-employed
+2552,70805,Not married,58,12,Male,White,Not Hispanic,Central,45,Construction,Not self-employed
+2554,128065,Married,53,20,Female,White,Not Hispanic,Central,25,Office,Not self-employed
+2556,72551,Married,47,16,Male,White,Hispanic,Central,28,Construction,Self-employed
+2558,121048,Married,55,14,Male,White,Not Hispanic,Central,66,Service,Not self-employed
+2560,30095,Married,45,6,Male,Other,Not Hispanic,Central,30,Service,Self-employed
+2561,85754,Married,51,14,Female,White,Not Hispanic,Central,45,Office,Not self-employed
+2562,112348,Married,57,16,Male,White,Not Hispanic,Central,50,Management,Not self-employed
+2563,133422,Married,51,14,Male,White,Not Hispanic,Central,43,Professional,Not self-employed
+2564,60669,Married,41,14,Male,White,Not Hispanic,Central,57,Professional,Not self-employed
+2568,42630,Not married,56,16,Male,White,Not Hispanic,Central,31,Construction,Not self-employed
+2569,59686,Not married,25,15,Female,White,Not Hispanic,Central,55,Medical,Not self-employed
+2570,46296,Not married,25,14,Male,Other,Not Hispanic,Central,45,Construction,Not self-employed
+2571,59774,Married,46,18,Female,Black,Not Hispanic,Central,54,Professional,Not self-employed
+2572,89014,Not married,56,18,Male,White,Not Hispanic,Central,45,Professional,Not self-employed
+2573,47322,Not married,33,15,Female,White,Not Hispanic,Central,42,Management,Not self-employed
+2579,40872,Married,43,18,Female,Other,Not Hispanic,Central,38,Sales,Self-employed
+2580,31922,Not married,38,14,Female,White,Not Hispanic,Central,42,Management,Not self-employed
+2583,39551,Not married,62,12,Female,Black,Not Hispanic,Central,48,Medical,Not self-employed
+2585,73554,Not married,58,14,Male,Black,Not Hispanic,Central,35,Production,Not self-employed
+2589,47084,Not married,33,14,Female,White,Not Hispanic,Central,33,Service,Not self-employed
+2590,23336,Not married,37,14,Female,Black,Not Hispanic,Central,48,Medical,Not self-employed
+2591,5306,Not married,36,14,Female,Black,Not Hispanic,Central,48,Medical,Not self-employed
+2593,25698,Not married,41,12,Male,White,Not Hispanic,Central,30,Office,Not self-employed
+2595,48475,Married,54,12,Female,Black,Not Hispanic,Central,35,Production,Not self-employed
+2615,82928,Married,65,16,Male,White,Not Hispanic,Central,39,Management,Self-employed
+2625,47499,Married,29,16,Male,White,Not Hispanic,Central,80,Medical,Not self-employed
+2634,79247,Married,27,16,Male,White,Not Hispanic,Central,51,Financial,Not self-employed
+2638,60482,Not married,46,14,Male,White,Not Hispanic,Central,38,Service,Not self-employed
+2639,35535,Married,37,12,Female,White,Not Hispanic,Central,36,Service,Not self-employed
+2640,75641,Married,33,14,Male,White,Not Hispanic,Central,53,Financial,Not self-employed
+2643,48858,Not married,29,12,Female,Black,Not Hispanic,Central,25,Office,Not self-employed
+2645,45619,Married,53,12,Female,White,Not Hispanic,Central,45,Production,Not self-employed
+2646,12029,Not married,41,11,Female,White,Not Hispanic,Central,35,Production,Not self-employed
+2649,32287,Married,60,12,Male,White,Not Hispanic,Central,42,Production,Self-employed
+2651,6055,Not married,23,12,Female,White,Not Hispanic,Central,28,Sales,Not self-employed
+2652,42730,Not married,36,12,Female,White,Not Hispanic,Central,33,Service,Not self-employed
+2656,65084,Married,58,13,Male,White,Not Hispanic,Central,39,Management,Not self-employed
+2664,31506,Not married,66,12,Female,White,Not Hispanic,Central,28,Sales,Not self-employed
+2667,47995,Married,26,17,Female,White,Not Hispanic,Central,61,Professional,Not self-employed
+2670,94224,Married,42,12,Male,White,Not Hispanic,Central,31,Office,Not self-employed
+2671,57847,Not married,22,14,Female,White,Not Hispanic,Central,51,Medical,Not self-employed
+2672,85269,Married,49,20,Male,White,Not Hispanic,Central,38,Professional,Self-employed
+2675,58391,Married,42,19,Female,Other,Not Hispanic,Central,64,Professional,Not self-employed
+2677,95754,Not married,25,12,Male,White,Not Hispanic,Central,35,Production,Not self-employed
+2678,41495,Not married,53,12,Female,White,Not Hispanic,Central,50,Service,Not self-employed
+2679,40888,Not married,24,16,Male,White,Not Hispanic,Central,46,Office,Not self-employed
+2682,41448,Married,24,12,Male,White,Not Hispanic,Central,38,Production,Not self-employed
+2685,31368,Married,34,13,Female,White,Not Hispanic,Central,47,Office,Not self-employed
+2686,63229,Married,54,14,Female,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+2688,66785,Married,42,13,Female,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+2691,65262,Married,59,12,Female,White,Not Hispanic,Northeast,40,Office,Not self-employed
+2693,34249,Married,57,12,Male,White,Not Hispanic,Northeast,46,Management,Self-employed
+2694,61088,Not married,55,16,Female,White,Not Hispanic,Northeast,42,Financial,Not self-employed
+2696,144617,Married,37,16,Male,White,Not Hispanic,Northeast,47,Production,Not self-employed
+2698,120784,Married,54,20,Female,White,Not Hispanic,Northeast,74,Professional,Not self-employed
+2700,22403,Not married,40,16,Male,White,Not Hispanic,Northeast,31,Construction,Not self-employed
+2701,72506,Married,51,10,Female,White,Not Hispanic,Northeast,50,Professional,Not self-employed
+2706,74115,Married,34,16,Female,White,Not Hispanic,Northeast,47,Financial,Not self-employed
+2707,52492,Married,36,13,Female,Other,Hispanic,Northeast,31,Office,Not self-employed
+2709,91779,Married,43,16,Male,White,Not Hispanic,Northeast,45,Financial,Not self-employed
+2711,93582,Not married,61,16,Female,White,Not Hispanic,Northeast,24,Service,Not self-employed
+2714,60856,Married,31,13,Male,Black,Not Hispanic,Northeast,51,Financial,Not self-employed
+2715,63112,Married,31,17,Male,White,Not Hispanic,Northeast,65,Professional,Not self-employed
+2717,49745,Married,34,20,Female,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+2721,66949,Married,49,20,Female,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+2724,53486,Not married,57,16,Female,White,Not Hispanic,Northeast,63,Professional,Not self-employed
+2728,95830,Not married,29,18,Male,White,Not Hispanic,Northeast,65,Professional,Not self-employed
+2731,140392,Not married,53,16,Male,White,Not Hispanic,Northeast,73,Professional,Not self-employed
+2734,55822,Married,48,12,Male,White,Not Hispanic,Northeast,48,Sales,Not self-employed
+2735,30107,Married,54,14,Female,White,Not Hispanic,Northeast,47,Office,Not self-employed
+2736,56119,Not married,32,15,Female,White,Not Hispanic,Northeast,53,Financial,Not self-employed
+2737,63531,Not married,56,12,Male,White,Not Hispanic,Northeast,42,Construction,Not self-employed
+2739,101583,Married,39,15,Male,White,Not Hispanic,Northeast,53,Management,Self-employed
+2740,69778,Not married,43,18,Female,White,Not Hispanic,Southeast,61,Professional,Not self-employed
+2745,45177,Married,61,15,Female,White,Not Hispanic,Southeast,48,Professional,Not self-employed
+2746,10250,Not married,23,10,Male,White,Not Hispanic,Southeast,33,Service,Not self-employed
+2751,35066,Not married,44,12,Female,White,Not Hispanic,Southeast,38,Office,Not self-employed
+2753,15169,Not married,50,12,Male,White,Not Hispanic,Northeast,44,Construction,Not self-employed
+2754,73634,Married,35,15,Female,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+2756,157937,Married,61,12,Male,White,Not Hispanic,Northeast,35,Production,Not self-employed
+2758,42761,Not married,61,12,Female,White,Not Hispanic,Northeast,35,Construction,Not self-employed
+2762,91903,Married,46,8,Male,White,Not Hispanic,Northeast,44,Construction,Self-employed
+2764,49573,Married,39,12,Male,White,Not Hispanic,Northeast,38,Production,Not self-employed
+2771,33584,Married,32,12,Female,White,Hispanic,Central,32,Office,Not self-employed
+2775,85189,Married,59,12,Female,White,Hispanic,Central,45,Office,Not self-employed
+2776,73722,Married,50,14,Male,White,Not Hispanic,Central,46,Office,Not self-employed
+2777,93172,Not married,52,19,Female,Black,Not Hispanic,Central,50,Production,Not self-employed
+2781,14432,Married,42,11,Male,Black,Not Hispanic,Central,20,Service,Not self-employed
+2786,53565,Married,31,12,Female,White,Not Hispanic,Central,48,Medical,Not self-employed
+2787,38927,Not married,43,10,Female,Black,Not Hispanic,Central,25,Production,Not self-employed
+2797,17971,Not married,23,12,Female,White,Not Hispanic,Central,28,Sales,Not self-employed
+2810,102194,Not married,40,12,Male,Black,Not Hispanic,Southeast,35,Construction,Not self-employed
+2817,25633,Not married,53,18,Female,White,Not Hispanic,Southeast,31,Sales,Not self-employed
+2818,167600,Not married,46,16,Male,White,Not Hispanic,Southeast,60,Professional,Not self-employed
+2819,94774,Not married,55,13,Male,White,Not Hispanic,Southeast,49,Construction,Not self-employed
+2821,30793,Married,51,12,Male,White,Not Hispanic,Southeast,28,Production,Not self-employed
+2830,84809,Married,62,16,Male,White,Not Hispanic,Southeast,29,Office,Not self-employed
+2832,42498,Not married,35,12,Female,White,Not Hispanic,Northeast,24,Service,Not self-employed
+2833,52669,Married,27,18,Female,White,Not Hispanic,Northeast,61,Professional,Not self-employed
+2836,36355,Not married,44,14,Female,White,Not Hispanic,Northeast,25,Service,Self-employed
+2837,132178,Married,60,16,Male,White,Not Hispanic,Northeast,45,Professional,Not self-employed
+2838,70169,Married,47,11,Male,White,Not Hispanic,Northeast,40,Production,Not self-employed
+2839,56906,Married,30,16,Female,White,Not Hispanic,Northeast,45,Office,Not self-employed
+2840,63448,Married,52,16,Male,White,Not Hispanic,Northeast,64,Professional,Not self-employed
+2842,66182,Not married,66,18,Female,White,Not Hispanic,Northeast,58,Professional,Not self-employed
+2843,19196,Married,38,14,Male,White,Not Hispanic,Northeast,37,Service,Not self-employed
+2845,28894,Not married,24,14,Female,White,Not Hispanic,Northeast,48,Professional,Not self-employed
+2848,94736,Married,58,14,Female,White,Not Hispanic,Northeast,52,Financial,Not self-employed
+2850,34597,Married,34,12,Female,White,Not Hispanic,Northeast,25,Production,Not self-employed
+2852,50437,Married,40,12,Male,White,Not Hispanic,Northeast,38,Sales,Self-employed
+2853,102214,Married,63,12,Female,White,Not Hispanic,Northeast,39,Financial,Not self-employed
+2854,5515,Married,40,16,Male,White,Not Hispanic,Northeast,59,Medical,Not self-employed
+2857,61151,Not married,35,15,Female,White,Not Hispanic,Northeast,64,Medical,Not self-employed
+2858,11345,Married,41,12,Female,White,Not Hispanic,Northeast,48,Medical,Not self-employed
+2859,38484,Married,56,15,Female,White,Not Hispanic,Northeast,53,Medical,Not self-employed
+2863,54142,Married,57,20,Female,White,Not Hispanic,Northeast,56,Professional,Self-employed
+2866,15344,Married,55,14,Female,White,Not Hispanic,Northeast,33,Service,Not self-employed
