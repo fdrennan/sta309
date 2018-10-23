@@ -20,4 +20,5 @@
 * [Session 4: September 24](https://youtu.be/b42M7fS9o4k)
 * [Exam Review: September 28](https://youtu.be/iJRRum2MAFk)
 * [Session 5: October 8](https://youtu.be/tLhzoZj8cwY)
-* [Session 6: October 16](https://youtu.be/CgdrcbEDjQY)
+* [Session 6: October 15](https://youtu.be/CgdrcbEDjQY)
+* [Session 7: October 22](https://youtu.be/qPtBgDAmIzA)
