@@ -22,3 +22,4 @@
 * [Session 5: October 8](https://youtu.be/tLhzoZj8cwY)
 * [Session 6: October 15](https://youtu.be/CgdrcbEDjQY)
 * [Session 7: October 22](https://youtu.be/qPtBgDAmIzA)
+* [Session 8: October 29](https://youtu.be/t5FLS7w7vuo)
