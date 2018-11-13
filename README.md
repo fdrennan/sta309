@@ -24,3 +24,4 @@
 * [Session 7: October 22](https://youtu.be/qPtBgDAmIzA)
 * [Session 8: October 29](https://youtu.be/t5FLS7w7vuo)
 * [Exam Review II: November 2](https://youtu.be/JnJQ8RhFJb4) ([R script from session](review-sessions/test2-review.R))
+* [Session 9: November 12](https://youtu.be/6onviUO3eoE)
