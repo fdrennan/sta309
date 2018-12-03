@@ -27,3 +27,4 @@
 * [Session 9: November 12](https://youtu.be/6onviUO3eoE)
 * [Session 10: November 19](https://www.youtube.com/watch?v=IjDmT5wdYQk)
 * [Session 11: November 26](https://youtu.be/eBwiL5G80m4)
+* [Session 12: December 3](https://youtu.be/lIohSnm6rh0)
