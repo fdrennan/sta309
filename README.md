@@ -28,3 +28,4 @@
 * [Session 10: November 19](https://www.youtube.com/watch?v=IjDmT5wdYQk)
 * [Session 11: November 26](https://youtu.be/eBwiL5G80m4)
 * [Session 12: December 3](https://youtu.be/lIohSnm6rh0)
+* [Final Review: December 7](https://youtu.be/AvldOl_pEqk)
