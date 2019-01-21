@@ -1,4 +1,4 @@
-Goodness-ofFit Tests
+Goodness-of-Fit Tests
 
 > cards <- c(102, 68, 30)  # make a vector with the data
 > # Chi-sq test
