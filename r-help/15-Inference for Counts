@@ -1,4 +1,4 @@
-Goodness-of-Fit Tests
+# Goodness-of-Fit Tests
 
 > cards <- c(102, 68, 30)  # make a vector with the data
 > # Chi-sq test
@@ -15,7 +15,7 @@ X-squared = 8.7667, df = 2, p-value = 0.01248
 > qchisq(.95,2)  # Critical value for alpha=0.05, df=2
 [1] 5.991465
 
-Test of Homogeneity or Independence
+# Test of Homogeneity or Independence
 
 > # Download data from MyStatLab, remove totals if given, and save file as .csv
 > example <- as.matrix(read.csv("~/Downloads/data12-3.csv", row.names=1))
