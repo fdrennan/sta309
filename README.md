@@ -14,18 +14,3 @@
 
 # Videos of R help sessions
 
-* [Session 1: September 4](https://youtu.be/0i9WI6OUGZ8)
-* [Session 2: September 10](https://youtu.be/eHOe7mFgEXk)
-* [Session 3: September 17](https://youtu.be/qHJ9_pCiMJc)
-* [Session 4: September 24](https://youtu.be/b42M7fS9o4k)
-* [Exam Review I: September 28](https://youtu.be/iJRRum2MAFk)
-* [Session 5: October 8](https://youtu.be/tLhzoZj8cwY)
-* [Session 6: October 15](https://youtu.be/CgdrcbEDjQY)
-* [Session 7: October 22](https://youtu.be/qPtBgDAmIzA)
-* [Session 8: October 29](https://youtu.be/t5FLS7w7vuo)
-* [Exam Review II: November 2](https://youtu.be/JnJQ8RhFJb4) ([R script from session](review-sessions/test2-review.R))
-* [Session 9: November 12](https://youtu.be/6onviUO3eoE)
-* [Session 10: November 19](https://www.youtube.com/watch?v=IjDmT5wdYQk)
-* [Session 11: November 26](https://youtu.be/eBwiL5G80m4)
-* [Session 12: December 3](https://youtu.be/lIohSnm6rh0)
-* [Final Review: December 7](https://youtu.be/AvldOl_pEqk) ([R script from session](review-sessions/final-review.R))
