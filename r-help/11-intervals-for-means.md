@@ -1,4 +1,4 @@
-# R resources for Chapter 11 (Inference for Means)
+# R resources for Chapter 11 (Confidence Intervals for Means)
 
 ## Videos
 
