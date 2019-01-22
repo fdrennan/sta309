@@ -21,20 +21,11 @@ Now, we can construct a 95% confidence interval for the average number of hours 
 
 	> ci <- sample.mean + critical.value * c(-standard.error, standard.error)
 
-Now let's test the hypothesis that average student gets 8 hours of sleep.  So the null hypothesis is ![formula](http://chart.apis.google.com/chart?cht=tx&chl=\mu=8)  and the test statistic is:
-
-	> mu0 <- 8  
-	> ts.t <- (sample.mean - mu0) / standard.error
-
-And we can compute the p-value (assuming we want to run a two-sided test) as:
-
-	> 2 * pt(abs(ts.t), lower.tail=F, df=n-1)
-
 R also automates this process for us!  All we have to do is to run the following command, which does all of the work for us:
 
-	> t.test(survey$sleep, mu=8)
+	> t.test(survey$sleep)
 
-For one sided tests, use `alternative="less"` or `alternative="greater"`.  In this case, ignore the confidence interval provided.  If you want to use the confidence interval, it is not necessary to specify anything more than the data.  Use the `conf.level` if you want something other than the default value of 0.95. 
+Use the `conf.level` if you want something other than the default value of 0.95. 
 
 	> t.test(survey$sleep, conf.level=0.99)
 
