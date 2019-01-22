@@ -53,7 +53,7 @@ And we can compute the p-value (assuming we want to run a two-sided test) as:
 
 	> 2 * pt(abs(ts.t), lower.tail=F, df=n-1)
 
-R also automates this process for us!  All we have to do is to run the following command, which does all of the work for us:
+R also automates this process for us!  All we have to do is to use the `t.test` function, which does all of the work for us:
 
 	> t.test(survey$sleep, mu=8)
 
