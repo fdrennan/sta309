@@ -1,4 +1,4 @@
-# R resources for Chapter 9 (Intervals for Proportions)
+# R resources for Chapter 10 (Intervals for Proportions)
 
 First let's run through the commands needed to calculate a confidence interval manually. Let's create a 95% confidence interval for the proportion of our class that is registered to vote in Texas.
 
