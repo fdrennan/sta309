@@ -1,4 +1,4 @@
-# R resources for Chapters 14 and 15 (Inference for Regression and Multiple Regression)
+# R resources for Chapters 16 and 18 (Inference for Regression and Multiple Regression)
 
 ## Useful commands
 
