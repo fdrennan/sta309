@@ -1,19 +1,27 @@
 # Goodness-of-Fit Tests
 
-> cards <- c(102, 68, 30)  # make a vector with the data
-> # Chi-sq test
-> results1 <- chisq.test(cards, p=c(.6, .3, .1))
-> results1  # results
+The `chisq.test` function can be used with a vector of counts and a vector of expected proportions for a goodness of fit test.
 
-	Chi-squared test for given probabilities
+	> counts <- c(102, 68, 30)  # make a vector with the data
+	> # Chi-sq test
+	> results1 <- chisq.test(counts, p=c(.6, .3, .1))
+	> results1  # results
 
-data:  cards
-X-squared = 8.7667, df = 2, p-value = 0.01248
+		Chi-squared test for given probabilities
 
-> results1$expected  # expected counts
-[1] 120  60  20
-> qchisq(.95,2)  # Critical value for alpha=0.05, df=2
-[1] 5.991465
+	data:  cards
+	X-squared = 8.7667, df = 2, p-value = 0.01248
+	
+The expected counts under the null hypothesis can be obtained 
+
+	> results1$expected  # expected counts
+	[1] 120  60  20
+	
+The critical value from the Chi-square distribution is obtained using the `qchisq` function with the 
+area to left (1-alpha) and the degrees of freedom.
+
+	> qchisq(.95,2)  # Critical value for alpha=0.05, df=2
+	[1] 5.991465
 
 # Test of Homogeneity or Independence
 
