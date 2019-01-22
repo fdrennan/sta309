@@ -1,4 +1,5 @@
-# Goodness-of-Fit Tests
+# R Resources for Chapter 15 (Inference for Counts)
+## Goodness-of-Fit Tests
 
 The `chisq.test` function can be used with a vector of counts and a vector of expected proportions for a goodness of fit test.
 
@@ -23,7 +24,7 @@ area to left (1-alpha) and the degrees of freedom.
 	> qchisq(.95,2)  # Critical value for alpha=0.05, df=2
 	[1] 5.991465
 
-# Test of Homogeneity or Independence
+## Test of Homogeneity or Independence
 
 There are two ways you may want to use to enter a two-way table with count data.  If you download data from MyStatLab, 
 you will need to remove column and row totals (if given) and save the data as a comma deliminated .csv file.  Once this
