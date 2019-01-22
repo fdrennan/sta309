@@ -1,6 +1,6 @@
 # R resources for Chapter 12 (Testing hypotheses)
 
-# Hypothesis test for one proportion
+## Hypothesis test for one proportion
 
 As with confidence intervals, we need the sample size, `n`, and the sample proportion, `p.hat`:
 
