@@ -9,9 +9,9 @@
 * [Chapter 9: Intervals for proportions](r-help/09-intervals-for-proportions)
 * [Chapter 10: Tests for proportions](r-help/10-tests-for-proportions)
 * [Chapter 11: Inference for means](r-help/11-inference-for-means)
-* [Chapter 12: Comparing two means](r-help/12-comparing-two-means)
+* [Chapter 14: Comparing two means](r-help/14-comparing-two-means)
 * [Chapter 15: Inference for Counts](r-help/15-inference-for-counts)
-* [Chapters 16 and 18: Inference for regression](r-help/14-inference-for-regression)
+* [Chapters 16 and 18: Inference for regression](r-help/16-inference-for-regression)
 
 # Videos of R help sessions
 
