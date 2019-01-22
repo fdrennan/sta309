@@ -1,4 +1,4 @@
-# R resources for Chapter 10 (Tests for Proportions)
+# R resources for Chapter 12 (Testing Hypotheses)
 
 As with confidence intervals, we need the sample size, `n`, and the sample proportion, `p.hat`:
 
