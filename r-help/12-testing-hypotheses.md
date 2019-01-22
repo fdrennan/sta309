@@ -1,4 +1,6 @@
-# R resources for Chapter 12 (Testing Hypotheses)
+# R resources for Chapter 12 (Testing hypotheses)
+
+# Hypothesis test for one proportion
 
 As with confidence intervals, we need the sample size, `n`, and the sample proportion, `p.hat`:
 
@@ -39,3 +41,20 @@ Instead of running through these calculations each time, we can also write our o
 	       p.val.two=min(2*p.val.upper,2*p.val.lower)  
 	  )  
 	}
+	
+## Hypothesis test for one mean
+	
+Now let's test the hypothesis that average student gets 8 hours of sleep.  So the null hypothesis is ![formula](http://chart.apis.google.com/chart?cht=tx&chl=\mu=8)  and the test statistic is:
+
+	> mu0 <- 8  
+	> ts.t <- (sample.mean - mu0) / standard.error
+
+And we can compute the p-value (assuming we want to run a two-sided test) as:
+
+	> 2 * pt(abs(ts.t), lower.tail=F, df=n-1)
+
+R also automates this process for us!  All we have to do is to run the following command, which does all of the work for us:
+
+	> t.test(survey$sleep, mu=8)
+
+For one sided tests, use `alternative="less"` or `alternative="greater"`.  In this case, ignore the confidence interval provided. 	
