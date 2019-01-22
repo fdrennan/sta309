@@ -47,7 +47,7 @@ You can check to see that the matrix looks the way you expect:
 	In-town_branch           21     39           40
 	Mall_branch              29     51           20
 	
-To perform the chisq.test:
+To perform the Chi-squared test:
 
 	> results3 <- chisq.test(example)
 	> results3
