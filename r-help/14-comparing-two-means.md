@@ -1,4 +1,4 @@
-# R resources for Chapter 12 (Comparing Two Means)
+# R resources for Chapter 14 (Comparing Two Means)
 
 ## Videos
 
