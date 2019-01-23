@@ -11,7 +11,7 @@
 * [Chapter 12: Testing hypotheses](r-help/12-testing-hypotheses)
 * [Chapter 14: Comparing two means](r-help/14-comparing-two-means)
 * [Chapter 15: Inference for counts](r-help/15-inference-for-counts)
-* [Chapters 16 or 18: Inference for regression](r-help/16-inference-for-regression)
+* [Chapters 16 and 18: Inference for regression](r-help/16-inference-for-regression)
 
 # Videos of R help sessions
 
