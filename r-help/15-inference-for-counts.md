@@ -70,7 +70,7 @@ obtained has exactly the same data as above, but default values are used for row
 
 	> Alternative <- matrix(c(21, 29, 39, 51, 40, 20),  nrow=2,   ncol=3)
 	> Alternative
-   	     [,1] [,2] [,3]
+	     [,1] [,2] [,3]
 	[1,]   21   39   40
 	[2,]   29   51   20
 	
