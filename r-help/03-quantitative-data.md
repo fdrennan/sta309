@@ -60,10 +60,6 @@ You can also make side-by-side boxplots to look at the distribution of a quantit
 	
 	> boxplot(height ~ gender, data=people)
 
-Make a stem-and-leaf plot:
-
-	> stem(data$X0)
-
 Now let's look at a time series plot. Let's import the hurricane data from the homework:
 
 	> data <- read.csv("~/Desktop/Hurricanes.csv")
