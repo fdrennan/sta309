@@ -13,5 +13,5 @@
 * [Chapter 15: Inference for counts](r-help/15-inference-for-counts)
 * [Chapters 16 and 18: Inference for regression](r-help/16-inference-for-regression)
 
-# Videos of R help sessions
+
 
