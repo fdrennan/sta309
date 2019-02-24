@@ -75,9 +75,11 @@ which is a quantitative variable, INDEX, which is a categorical variable, and FU
 R function. tapply applies the R function to X for each category in INDEX. For example,
 below we create a table that computes the mean of the ages for white and non-whites in the
 data.
+
 	> tapply(GSS$Age, GSS$Race, median)
 	Black Other White
 	   42    40    46
+	   
 You can replace mean with any R function that would operate on a quantitative variable, e.g.,
 sd or even functions with more than one output like fivenum or summary.
 
@@ -85,5 +87,6 @@ sd or even functions with more than one output like fivenum or summary.
 subsetted (in this case, a data frame) and RULE, which is a logical expression indicating rows
 to keep. subset creates a new object for which RULE is true. For example, below we create a
 new dataframe with only the males from the GSS data.
+
 	> Males <- subset(GSS, Gender == "Male")
 
