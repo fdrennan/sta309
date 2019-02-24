@@ -70,10 +70,10 @@ We can make a time series plot by using the plot command and passing type="l" as
 
 	> plot(data$X., type="l")	
 	
-`tapply` is an R command that you might nd useful. The function takes as arguments X,
+`tapply` is an R command that you might find useful. The function takes as arguments X,
 which is a quantitative variable, INDEX, which is a categorical variable, and FUN, which is an
 R function. tapply applies the R function to X for each category in INDEX. For example,
-below we create a table that computes the mean of the ages for white and non-whites in the GSS
+below we create a table that computes the mean of the ages by race in the GSS
 data.
 
 	> tapply(GSS$Age, GSS$Race, median)
