@@ -68,4 +68,22 @@ Note that since the second column is called "#", which is not a valid R column n
 
 We can make a time series plot by using the plot command and passing type="l" as a parameter:
 
-	> plot(data$X., type="l")
+	> plot(data$X., type="l")	
+	
+`tapply` is an R command that you might nd useful. The function takes as arguments X,
+which is a quantitative variable, INDEX, which is a categorical variable, and FUN, which is an
+R function. tapply applies the R function to X for each category in INDEX. For example,
+below we create a table that computes the mean of the ages for white and non-whites in the
+data.
+	> tapply(GSS$Age, GSS$Race, median)
+	Black Other White
+	   42    40    46
+You can replace mean with any R function that would operate on a quantitative variable, e.g.,
+sd or even functions with more than one output like fivenum or summary.
+
+`subset` is another useful R function. The function has arguments X, which is an object to be
+subsetted (in this case, a data frame) and RULE, which is a logical expression indicating rows
+to keep. subset creates a new object for which RULE is true. For example, below we create a
+new dataframe with only the males from the GSS data.
+	> Males <- subset(GSS, Gender == "Male")
+
